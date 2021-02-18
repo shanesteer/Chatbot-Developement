@@ -1,0 +1,94 @@
+﻿<Siml>
+  <Dialog Name="Perkhidmatan121" IntentAlias="Perkhidmatan">
+    
+    <Intent>
+      <Expression Value="Apakah perkhidmatan yand disediakan oleh 121Advisor?" />
+      <Expression Value="Perkhidmatan apa yang disediakan untuk pelanggan?" />
+      <Expression Value="Apakah perkhidmatan yang disediakan untuk pelanggan?" />
+      <Expression Value="Perkhidmatan?" />
+      <Expression Value="Perkhidmatan 121Advisor?" />
+      <Expression Value="Perkhidmatan121?" />
+      <Response>Perkhidmatan Pemasaran Digital 121Advisor membolehkan pelanggan kami menyampaikan penyelesaian Enterprise Pertama Terhubung Pelanggan untuk Pemasaran, Penjenamaan, Prospeksi, Penjualan dan Penempatan menggunakan metodologi Pengurusan Pelanggan CXM 2.0 kami. 121Advisor juga menyediakan Perkhidmatan Hosted, Chatbot Multi-bahasa, Pelaksanaan Penasihat Robo dan Pembangunan Kursus e-pembelajaran Mobile.
+<Hint>R@@ Perkhidmatan Pemasaran Digital|Model CXM 2.0|Model AIDA|Model ALA|Perkhidmatan CHATbot|Perkhidmatan yang dihoskan|Pembangunan Kursus e-pembelajaran Mobile|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Perkhidmatan Pemasaran Digital">
+      <Expression Value="Apakah Perkhidmatan Pemasaran Digital?" />
+      <Expression Value="Apakah itu Perkhidmatan Pemasaran Digital?" />
+      <Expression Value="Perkhidmatan Pemasaran Digital?" />
+      <Response>Perkhidmatan Pemasaran Digital mentakrifkan segmen sasaran melalui penilaian peraturan Persona automatik dan mengembangkan Perjalanan Pelanggan yang diperibadikan untuk setiap segmen sasaran.
+<Hint>R@@ Model CXM 2.0|Model AIDA|Model ALA|Perkhidmatan CHATbot|Perkhidmatan Hosted|Pembangunan Kursus e-pembelajaran Mobile|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="ms-MY CXM 2.0">
+      <Expression Value="Apakah Model CXM 2.0 Pengurusan Pengalaman Pelanggan?" />
+      <Expression Value="Apakah itu Model CXM 2.0 Pengurusan Pengalaman Pelanggan?" />
+      <Expression Value="Model CXM 2.0 Pengurusan Pengalaman Pelanggan?" />
+      <Expression Value="Model CXM 2.0?" />
+      <Response>Model CXM 2.0 Pengurusan Pengalaman Pelanggan adalah model penglibatan pengguna peribadi yang berorientasikan 5 peringkat yang membina Perjalanan Pelanggan Peribadi berdasarkan sasaran orang dan pemarkahan utama model AIDA untuk rujukan, pemasaran dan penjualan atau model ALA untuk servis, jualan silang dan upsell.
+<Hint>R@@ Perkhidmatan Pemasaran Digital|Model AIDA|Model ALA|Perkhidmatan CHATbot|Perkhidmatan Hosted|Pembangunan Kursus e-pembelajaran Mobile|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Makna model AIDA">
+      <Expression Value="Apakah makna model AIDA?" />
+      <Expression Value=" Makna model AIDA?" />
+      <Response>Model AIDA bermaksud Model Kesedaran Kepentingan Tindakan Keinginan.
+<Hint>R@@ Perkhidmatan Pemasaran Digital|Model CXM 2.0|Model AIDA|Model ALA|Perkhidmatan CHATbot|Perkhidmatan Hosted|Pembangunan Kursus e-pembelajaran Mobile|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Makna model ALA">
+      <Expression Value="Apakah makna model ALA?" />
+      <Expression Value=" Makna model ALA?" />
+      <Response>Model ALA bermaksud Model Advokasi Kesetiaan Adopsi.
+<Hint>R@@ Perkhidmatan Pemasaran Digital|Model CXM 2.0|Model AIDA|Model ALA|Perkhidmatan CHATbot|Perkhidmatan Hosted|Pembangunan Kursus e-pembelajaran Mobile|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Model AIDA">
+      <Expression Value="Apakah model AIDA?" />
+      <Expression Value="Apakah itu model AIDA?" />
+      <Expression Value="Apakah Model Kesedaran Kepentingan Tindakan Keinginan?" />
+      <Expression Value="Apakah itu Model Kesedaran Kepentingan Tindakan Keinginan?" />
+      <Expression Value="Model AIDA?" />
+      <Expression Value="Model Kesedaran Kepentingan Tindakan Keinginan?" />
+      <Response>Model Kesedaran Kepentingan Tindakan Keinginan mewujudkan pemasaran peribadi dan interaksi pembelian berdasarkan segmen persona untuk menghasilkan minat dan keinginan untuk membeli produk yang tepat.
+<Hint>R@@ Makna model AIDA|Perkhidmatan Pemasaran Digital|Model CXM 2.0|Model ALA|Perkhidmatan CHATbot|Perkhidmatan Hosted|Pembangunan Kursus e-pembelajaran Mobile|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Model ALA">
+      <Expression Value="Apakah model ALA?" />
+      <Expression Value="Apakah itu model ALA?" />
+      <Expression Value="Apakah Model Advokasi Kesetiaan Adopsi?" />
+      <Expression Value="Apakah itu Model Advokasi Kesetiaan Adopsi?" />
+      <Expression Value="Model ALA?" />
+      <Expression Value="Model Advokasi Kesetiaan Adopsi?" />
+      <Response>Model Advokasi Kesetiaan Adopsi menyampaikan pengalaman hebat melalui penglibatan perkhidmatan pelanggan peribadi untuk membina hubungan yang dipercayai dan menggalakkan rujukan.
+<Hint>R@@ Makna model ALA|Perkhidmatan Pemasaran Digital|Model CXM 2.0|Model AIDA|Perkhidmatan CHATbot|Perkhidmatan Hosted|Pembangunan Kursus e-pembelajaran Mobile|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Perkhidmatan CHATbot">
+      <Expression Value="Apakah Chatbot Multi-Bahasa dan Pelaksanaan Penasihat Robo?" />
+      <Expression Value="Apakah itu Chatbot Multi-Bahasa dan Pelaksanaan Penasihat Robo?" />
+      <Expression Value="Chatbot Multi-Bahasa dan Pelaksanaan Penasihat Robo?" />
+      <Expression Value="Perkhidmatan CHATbot?" />
+      <Response>Chatbot Multi-bahasa dan Penasihat Robo mengurangkan kos perkhidmatan pelanggan sehingga 40% dengan melaksanakan 24/7 bot pintar pelbagai bahasa.
+ <Hint>R@@ Perkhidmatan Pemasaran Digital|Model CXM 2.0|Model AIDA|Model ALA|Perkhidmatan Hosted|Pembangunan Kursus e-pembelajaran Mobile|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Perkhidmatan Hosted">
+      <Expression Value="Apakah Perkhidmatan Hosted?" />
+      <Expression Value="Apakah itu Perkhidmatan Hosted?" />
+      <Expression Value="Perkhidmatan Hosted?" />
+      <Response>121Advisor adalah penyedia perkhidmatan kewangan yang diluluskan pengawalseliaan dari hosting aplikasi SaaS (Software sebagai Perkhidmatan) dan hosting infrastruktur yang mematuhi peraturan 3 peringkat dengan laman web pemulihan bencana yang berjalan 24/7.
+<Hint>R@@ Perkhidmatan Pemasaran Digital|Model CXM 2.0|Model AIDA|Model ALA|Perkhidmatan CHATbot|Pembangunan Kursus e-pembelajaran Mobile|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Pembangunan Kursus e-pembelajaran Mobile">
+      <Expression Value="Apakah Pembangunan Kursus e-pembelajaran Mobile?" />
+      <Expression Value="Apakah itu Pembangunan Kursus e-pembelajaran Mobile?" />
+      <Expression Value="Pembangunan Kursus e-pembelajaran Mobile?" />
+      <Response>121Advisor membantu jabatan latihan agensi dalam penukaran bahan latihan sedia ada ke dalam kandungan e-pembelajaran mobile yang boleh dimuat turun dan beroperasi offline pada peranti mobile ejen.
+<Hint>R@@ Perkhidmatan Pemasaran Digital|Model CXM 2.0|Model AIDA|Model ALA|Perkhidmatan CHATbot|Perkhidmatan Hosted|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

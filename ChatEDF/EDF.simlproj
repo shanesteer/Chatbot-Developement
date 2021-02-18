@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SimlProject>
+  <Profile>Modern</Profile>
+  <Name>EDF</Name>
+  <Directory>EDF</Directory>
+  <BotName>Chimney</BotName>
+  <Personality>Professional</Personality>
+  <Author>Shane</Author>
+  <Description>Describing what is EDF</Description>
+  <Date>19-07-03 08:30:12.492</Date>
+  <Notes></Notes>
+</SimlProject>

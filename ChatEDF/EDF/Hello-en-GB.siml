@@ -1,0 +1,49 @@
+﻿<Siml>
+  <Dialog Name="HelloBotDialog" IntentAlias="smalltalk-greetings">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="Hello" />
+      <Expression Value="Hi" />
+      <Response>Hello Customer! How are you today? Would you like to know more about 121Advisor's solutions and services?
+<Hint>R@@ Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I'm doing fine." />
+      <Expression Value="I'm doing good." />
+      <Expression Value="I'm doing alright." />
+      <Expression Value="I'm fine thank you." />
+      <Expression Value="I'm fine." />
+      <Expression Value="I'm good." />
+      <Response>Splendid! How may I help you today?
+<Hint>R@@ Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I'm doing fine. Yes I would." />
+      <Expression Value="I'm doing good. Yes I would." />
+      <Expression Value="I'm doing alright. Yes I would." />
+      <Expression Value="I'm fine thank you. Yes I would." />
+      <Expression Value="I'm fine. Yes I would." />
+      <Expression Value="I'm good. Yes I would." />
+      <Expression Value="Yes I would." />
+      <Expression Value="Yes." />
+      <Expression Value="Yes I would like to know more." />
+      <Response>Splendid! Please click the 121Solutions or 121Services hint below or click the '+' sign to know more about 121Advisor.
+<Hint>R@@ Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I'm doing fine. How are you?" />
+      <Expression Value="I'm doing good. How are you?" />
+      <Expression Value="I'm doing alright. How are you?" />
+      <Expression Value="I'm fine thank you. How are you?" />
+      <Expression Value="I'm fine. How are you?" />
+      <Expression Value="I'm good. How are you?" />
+      <Response>I'm fine thank you! How may I help you today?
+<Hint>R@@ Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

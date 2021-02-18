@@ -1,0 +1,273 @@
+﻿<Siml>
+  <Dialog Name="Penyelesaian121" IntentAlias="Penyelesaian">
+    
+    <Intent>
+      <Expression Value="Apakah Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan?" />
+      <Expression Value="Apakah CFCEDF?" />
+      <Expression Value="CFCEDF?" />
+      <Expression Value="EDF?" />
+      <Expression Value="Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan (CFCEDF)?" />
+      <Expression Value="Penyelesaian121?" />
+      <Expression Value="Penyelesaian 121Advisor?" />
+      <Expression Value="Penyelesaian lain?" />
+      <Expression Value="Penyelesaian?" />
+      <Response>Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan (CFCEDF) memenuhi semua keperluan digital anda menggunakan penyelesaian 121Advisor seperti Chatbot Multi-bahasa untuk Kewangan, Insurans dan Takaful (FITbot), Penyelesaian Portal Web untuk Penjualan dan Perkhidmatan (WebPoS), Pengurusan Rujukan dan Automasi Pemasaran (ReMMA), App Mobile Activiti Penjualan (SAMA), Pilihan Kedai Atas Talian (COS), Mobiliti Takaful dan Insurans Mudah (TIMMS), Portal Khidmat Diri Pelanggan (CSSP), Pemasaran E-Worksite dan Pengedaran Komuniti (CeMD), Penyelesaian Pengurusan Pengagihan Multi-saluran (McDMS) dan Konfigurator Produk Perusahaan (EPC).
+<Hint>R@@ Utamakan Pelanggan|Rangka Kerja Digital Enterprise Terhuhung-ms|Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Chatbot FITbot-ms|Komuniti Atas Talian CeMD|Portal Web WebPOS|Aktiviti Penjualan SAMA|Pilihan Kedai Atas Talian COS|Takaful dan Insurans TIMMS|Pengagihan Multi-saluran McDMS|Konfigurator Produk Perusahaan EPC|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="FITbot">
+      <Expression Value="Apakah FITbot?" />
+      <Expression Value="Apakah itu FITbot?" />
+      <Expression Value="FITbot?" />
+      <Expression Value="Apakah CHATbot?" />
+      <Expression Value="Apakah itu CHATbot?" />
+      <Expression Value="CHATbot?" />
+      <Expression Value="CHATbot FITbot-ms" />
+      <Expression Value="Saya ingin mengetahui lebih lanjut tentang FITbot" />
+      <Expression Value="Saya ingin mengetahui lebih lanjut tentang CHATbot" />
+      <Expression Value="Multi-lingual Chatbot for Financial, Insurance and Takaful (FITbot)" />
+      <Response>Chatbot Multi-bahasa untuk Kewangan, Insurans dan Takaful (FITbot) adalah Penasihat Robo pelbagai bahasa dan chatbot yang menggunakan pokok hibrida dan pemprosesan bahasa semula jadi (NLP) untuk melibatkan pelanggan untuk menawarkan pengalaman pelanggan yang lebih peribadi dan menghasilkan lebih banyak rujukan. Penasihat Robo menyediakan nasihat gaya hidup mengenai matlamat kewangan dan mengesyorkan produk untuk matlamat yang diintegrasikan dengan (WebPoS), (ReMMA), (SAMA), (COS), (TIMMS), (CSSP), (CeMD), (McDMS) and (EPC).
+<Hint>R@@ Penasihat Robo|Automasi Proses Robotik|Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Komuniti Atas Talian CeMD|Portal Web WebPOS|Aktiviti Penjualan SAMA|Pilihan Kedai Atas Talian COS|Takaful dan Insurans TIMMS|Pengagihan Multi-saluran McDMS|Konfigurator Produk Perusahaan EPC|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="WebPoS">
+      <Expression Value="Apakah WebPoS?" />
+      <Expression Value="Apakah itu WebPoS?" />
+      <Expression Value="WebPoS?" />
+      <Expression Value="(WebPoS)" />
+      <Expression Value="Portal Web WebPOS" />
+      <Expression Value="Penyelesaian Portal Web untuk Penjualan dan Perkhidmatan (WebPoS)" />
+      <Response>Penyelesaian Portal Web untuk Penjualan dan Perkhidmatan (WebPoS) adalah laman web responsif mobile pelbagai bahasa dan penyelesaian portal untuk membolehkan pelanggan mengalami pengalaman digital yang disatukan peribadi di mana kandungan, jualan, pemasaran dan pengurusan kerja disatukan dan bukan terpencil.
+<Hint>R@@ Perjalanan Pelanggan|Persona|Pemarkahan Lead|Menyampaikan Kempen Berkesan|Panduan pembeli|Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Chatbot FITbot-ms|Komuniti Atas Talian CeMD|Aktiviti Penjualan SAMA|Pilihan Kedai Atas Talian COS|Takaful dan Insurans TIMMS|Pengagihan Multi-saluran McDMS|Konfigurator Produk Perusahaan EPC|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="ReMMA">
+      <Expression Value="Apakah ReMMA?" />
+      <Expression Value="Apakah itu ReMMA?" />
+      <Expression Value="ReMMA?" />
+      <Expression Value="(ReMMA)" />
+      <Expression Value="Pengurusan Rujukan dan Automasi Pemasaran (ReMMA)" />
+      <Expression Value="Pengurusan Rujukan ReMMA" />
+      <Response>Pengurusan Rujukan dan Automasi Pemasaran (ReMMA) menyeberangi jurang antara pemasaran dan jualan. Ini adalah proses pemerolehan pelanggan yang mengenal pasti pembeli berpotensi, mendidik mereka, terlibat dengan mereka, dan apabila petunjuk dianggap layak, dihantar kepada penasihat kewangan. Pengurusan rujukan dan pemasaran automasi 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' telah berjaya digunakan untuk meningkatkan jualan dengan ketara dan meningkatkan nisbah penutupan. Ia digunakan untuk mendapatkan rujukan dari kakitangan, pihak ketiga dan pelanggan.
+<Hint>R@@ Penglibatan peribadi|Automasi Pemasaran|Pemupukan Lead|Perjalanan Pelanggan|Persona-ms|Pemarkahan Lead|Kempen Peribadi|Menyampaikan Kempen Berkesan|Automasi Proses Robotik|Panduan pembeli|Khidmat Diri Pelanggan CSSP|Chatbot FITbot-ms|Komuniti Atas Talian CeMD|Portal Web WebPOS|Aktiviti Penjualan SAMA|Pilihan Kedai Atas Talian COS|Takaful dan Insurans TIMMS|Pengagihan Multi-saluran McDMS|Konfigurator Produk Perusahaan EPC|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="SAMA">
+      <Expression Value="Apakah SAMA?" />
+      <Expression Value="Apakah itu SAMA?" />
+      <Expression Value="SAMA?" />
+      <Expression Value="(SAMA)" />
+      <Expression Value="App Mobile Activiti Jualan (SAMA)" />
+      <Expression Value="Aktiviti Penjualan SAMA" />
+      <Response>App Mobile Aktiviti Jualan (SAMA) membolehkan ejen merancang dan menguruskan aktiviti jualan secara berkesan untuk memastikan semua petunjuk dan prospek ditindaklanjuti. Pengurus boleh memantau Aktiviti KPI secara "real-time" untuk memberikan bantuan apabila diperlukan.
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Chatbot FITbot-ms|Komuniti Atas Talian CeMD|Portal Web WebPOS|Pilihan Kedai Atas Talian COS|Takaful dan Insurans TIMMS|Pengagihan Multi-saluran McDMS|Konfigurator Produk Perusahaan EPC|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="COS">
+      <Expression Value="Apakah COS?" />
+      <Expression Value="Apakah itu COS?" />
+      <Expression Value="COS?" />
+      <Expression Value="(COS)" />
+      <Expression Value="Choices?" />
+      <Expression Value="Pilihan Kedai Atas Talian (COS)" />
+      <Expression Value="Pilihan Kedai Atas Talian COS" />
+      <Response>Pilihan Kedai Atas Talian (COS) membolehkan pengendali insurans dan pengendali takaful menyediakan pembelian langsung produk secara online, mengintegrasikan dengan Chatbot Multi-bahasa untuk perkhidmatan penasihat robo FITbot serta rujukan melalui ReMMA dan menggunakan EPC untuk persediaan segera dan ujian baru auto.
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Chatbot FITbot-ms|Komuniti Atas Talian CeMD|Portal Web WebPOS|Aktiviti Penjualan SAMA|Takaful dan Insurans TIMMS|Pengagihan Multi-saluran McDMS|Konfigurator Produk Perusahaan EPC|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="TIMMS">
+      <Expression Value="Apakah TIMMS?" />
+      <Expression Value="Apakah itu TIMMS?" />
+      <Expression Value="TIMMS?" />
+      <Expression Value="(TIMMS)" />
+      <Expression Value="Mobiliti Takaful dan Insurans Menjadi Mudah (TIMMS)" />
+      <Expression Value="Takaful dan Insurans TIMMS" />
+      <Response>Mobiliti Takaful dan Insurans Menjadi Mudah (TIMMS) adalah penyelesaian Point of Sales platform silang mobile yang membolehkan ejen membuat leads, menetapkan aktiviti, mengenal pasti keperluan kewangan pelanggan melalui Fakta Pelanggan, mengesyorkan produk, membuat persembahan, menjana sebut harga dan Illustration Sales PDF dalam mana-mana bahasa, pra-menaja jamin dan e-submit aplikasi, dalam proses yang mematuhi peraturan dan menggunakan EPC untuk menyediakan segera dan uji automatik produk baharu.
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Chatbot FITbot-ms|Komuniti Atas Talian CeMD|Portal Web WebPOS|Aktiviti Penjualan SAMA|Pilihan Kedai Atas Talian COS|Pengagihan Multi-saluran McDMS|Konfigurator Produk Perusahaan EPC|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="CSSP">
+      <Expression Value="Apakah CSSP?" />
+      <Expression Value="Apakah itu CSSP?" />
+      <Expression Value="CSSP?" />
+      <Expression Value="(CSSP)" />
+      <Expression Value="Portal Khidmat Diri Pelanggan (CSSP)" />
+      <Expression Value="Khidmat Diri Pelanggan CSSP" />
+      <Response>Portal Khidmat Diri Pelanggan (CSSP) mengurangkan kos operasi dengan membolehkan pelanggan akses online untuk melihat dasar dan kontrak, membuat pembayaran pembaharuan, mengemukakan permintaan perkhidmatan, memuat turun dokumen, mendapatkan maklumat melalui Penasihat Robo, atau memfailkan aduan dan menyediakan penglibatan peribadi 24x7 menggunakan persona untuk mencadangkan produk yang diperlukan oleh orang itu, dan menjalankan merentas jual / kempen upsell yang disasarkan. Pilihan untuk menggunakan aplikasi mobile pelanggan.
+<Hint>R@@ Penglibatan peribadi|Perjalanan Pelanggan|Persona-ms|Pemarkahan Utama|Kempen peribadi|Automasi Proses Robotik|Analisis Ramalan|Melibatkan Pelanggan sedia ada|Pengurusan Rujukan ReMMA|Chatbot FITbot-ms|Komuniti Atas Talian CeMD|Portal Web WebPOS|Aktiviti Penjualan SAMA|Pilihan Kedai Atas Talian COS|Takaful dan Insurans TIMMS|Pengagihan Multi-saluran McDMS|Konfigurator Produk Perusahaan EPC|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="CeMD">
+      <Expression Value="Apakah CeMD?" />
+      <Expression Value="Apakah itu CeMD?" />
+      <Expression Value="CeMD?" />
+      <Expression Value="(CeMD)" />
+      <Expression Value="Komuniti Atas Talian?" />
+      <Expression Value="Pemasaran E-Worksite dan Pengedaran Komuniti (CeMD)" />
+      <Expression Value="Komuniti Atas Talian CeMD" />
+      <Response>Pemasaran E-Worksite dan Pengedaran Komuniti (CeMD) adalah portal komuniti yang membolehkan syarikat-syarikat terlibat dengan ahli komuniti mereka untuk berkongsi, memupuk, mempercayai dan mewujudkan penyokong dengan itu meningkatkan pengekalan pelanggan. Ahli komuniti boleh melihat kandungan gaya hidup, melibatkan diri dalam forum perbincangan untuk mencadangkan produk baharu atau mendapatkan nasihat, berbincang dengan ahli lain melalui pemesejan yang selamat dan menerima surat berita terpilih berdasarkan keutamaan mereka.
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Chatbot FITbot-ms|Portal Web WebPOS|Aktiviti Penjualan SAMA|Pilihan Kedai Atas Talian COS|Takaful dan Insurans TIMMS|Pengagihan Multi-saluran McDMS|Konfigurator Produk Perusahaan EPC|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="McDMS">
+      <Expression Value="Apakah McDMS?" />
+      <Expression Value="Apakah itu McDMS?" />
+      <Expression Value="McDMS?" />
+      <Expression Value="(McDMS)" />
+      <Expression Value="Penyelesaian Pengurusan Pengagihan Multi-saluran (McDMS)" />
+      <Expression Value="Pengagihan Multi-saluran McDMS" />
+      <Response>Penyelesaian Pengurusan Pengagihan Multi-saluran (McDMS) untuk agensi am, IFA, broker dan ejen untuk memudahkan operasi dengan menyatukan keperluan mereka yang pelbagai. Dengan pengurusan prestasi yang dibina, pampasan dan pengiraan cukai, pelanggan kami telah melihat peningkatan jualan dengan kos pentadbiran berkurangan.
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Chatbot FITbot-ms|Komuniti Atas Talian CeMD|Portal Web WebPOS|Aktiviti Penjualan SAMA|Pilihan Kedai Atas Talian COS|Takaful dan Insurans TIMMS|Konfigurator Produk Perusahaan EPC|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="EPC">
+      <Expression Value="Apakah EPC?" />
+      <Expression Value="Apakah itu EPC?" />
+      <Expression Value="EPC?" />
+      <Expression Value="(EPC)" />
+      <Expression Value="Konfigurator Produk Perusahaan (EPC)" />
+      <Expression Value="Konfigurator Produk Perusahaan EPC" />
+      <Response>Konfigurator Produk Perusahaan (EPC) cepat menetapkan peraturan produk, kadar dan ilustrasi dan mengurangkan masa untuk memasarkan produk insurans dan takaful. Modul ujian automatik membolehkan pengesahan pantas dan penggunaan produk mudah. Penarafan EPC dan enjin pengesahan peraturan digunakan untuk jualan online dan offline.
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Chatbot FITbot-ms|Komuniti Atas Talian CeMD|Portal Web WebPOS|Aktiviti Penjualan SAMA|Pilihan Kedai Atas Talian COS|Takaful dan Insurans TIMMS|Pengagihan Multi-saluran McDMS|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Utamakan Pelanggan">
+      <Expression Value="Apakah Utamakan Pelanggan?" />
+      <Expression Value="Apakah itu Utamakan Pelanggan?" />
+      <Expression Value="Utamakan Pelanggan?" />
+      <Response>Meletakkan pelanggan terlebih dahulu adalah penting untuk pengekalan pelanggan dan kesetiaan pelanggan. Utamakan pelanggan, bermakna anda meletakkan keperluan dan kehendak pelanggan di hadapan segalanya. Berorientasikan ke arah memenuhi keperluan pelanggan, dan mengukur tahap kepuasan pelanggan untuk menentukan kejayaan perniagaan anda. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' mengurus pengalaman pelanggan daripada prospek, petunjuk, perkhidmatan pelanggan, menggunakan Automasi Proses Robotik untuk memastikan pertanyaan diikuti untuk memenuhi tahap kepuasan pelanggan.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya] 
+<Hint>R@@ Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Penglibatan peribadi">
+      <Expression Value="Apakah Penglibatan peribadi?" />
+      <Expression Value="Apakah itu Penglibatan peribadi?" />
+      <Expression Value="Penglibatan peribadi?" />
+      <Response>Penglibatan peribadi adalah penting untuk mendapatkan lebih banyak jualan dan membina kepercayaan pelanggan. 80% pengguna mengatakan bahawa jika kandungan atau produk tidak memenuhi keperluan mereka, mereka akan mencari laman web lain. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' secara automatik mengenali persona seseorang, dan menggunakannya untuk menawarkan kandungan dan produk yang diperibadikan. Sebagai contoh, jika anda mempunyai keluarga, maka personalisasi akan menghantar artikel tentang pendidikan anak dengan produk yang memenuhi keperluan ini.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Automasi Pemasaran">
+      <Expression Value="Apakah Automasi Pemasaran?" />
+      <Expression Value="Apakah itu Automasi Pemasaran?" />
+      <Expression Value="Automasi Pemasaran?" />
+      <Response>Pengguna dan Pelanggan melalui pelbagai peringkat kitaran hayat mereka, dari tunggal, berkahwin, keluarga hingga bersara. Automasi Pemasaran membolehkan anda menyampaikan kandungan yang tepat dan memulakan aktiviti jualan secara peribadi, serta menjalankan kempen peribadi untuk menyebarkan penjualan atau menjual produk baru berdasarkan keperluan mereka. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' membolehkan anda dengan cepat membina alur kerja automasi yang diperibadikan untuk prospek dan pelanggan, dan membuat kempen sasaran yang sepadan dengan keperluan mereka.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Pengurusan Rujukan ReMMA|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Pemupukan Lead">
+      <Expression Value="Apakah Pemupukan Lead?" />
+      <Expression Value="Apakah itu Pemupukan Lead?" />
+      <Expression Value="Pemupukan Lead?" />
+      <Response>Pemupukan Lead adalah proses untuk melibatkan kumpulan sasaran yang ditetapkan dengan menyediakan kandungan menarik pada setiap peringkat perjalanan pembeli, dengan menetapkan diri sebagai pakar dalam apa yang anda tawarkan. Anda ingin secara aktif memindahkan prospek melalui pemasaran dan usaha generasi memimpin, ke titik di mana mereka menjadi pelanggan yang membayar. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' menawarkan Pemupukan Lead kepada prospek maupun kepada pelanggan untuk membina hubungan yang dipercayai, dengan menawarkan maklumat dan produk yang berkaitan pada masa yang tepat.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Pengurusan Rujukan ReMMA|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Penasihat Robo">
+      <Expression Value="Apakah Penasihat Robo?" />
+      <Expression Value="Apakah itu Penasihat Robo?" />
+      <Expression Value="Penasihat Robo?" />
+      <Response>Penasihat Robo memberikan nasihat kewangan secara online dengan campur tangan manusia yang minimum. Mereka memberikan nasihat kewangan digital berdasarkan peraturan matematik atau algoritma yang dikira online dan dengan itu nasihat kewangan tidak memerlukan penasihat manusia, melainkan jika diminta oleh pengguna. Penasihat FITbot Robo Multi-lingual 'Rangkaian Digital Enterprise Pertama Terhubung Pelanggan' membolehkan penglibatan peribadi pengguna 24x7, untuk mendapatkan maklumat tentang matlamat kewangan gaya hidup mereka dan memahami seberapa banyak yang mereka perlukan. Pengguna kemudiannya boleh memutuskan untuk membeli online atau berhubung dengan seorang penasihat.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Chatbot FITbot-ms|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Perjalanan Pelanggan">
+      <Expression Value="Apakah Perjalanan Pelanggan?" />
+      <Expression Value="Apakah itu Perjalanan Pelanggan?" />
+      <Expression Value="Apakah makna Perjalanan Pelanggan?" />
+      <Expression Value="Perjalanan Pelanggan?" />
+      <Response>Peta perjalanan pelanggan menceritakan kisah pengalaman pelanggan dari hubungan awal, melalui pertemuan dan menjadi hubungan jangka panjang. Ia mengenal pasti apa yang mereka mahu capai, dan apa yang diharapkan oleh organisasi mereka. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' membolehkan pasukan menentukan dan mengesan perjalanan pelanggan untuk laman web, portal dan chatbots. Penjejakan membolehkan kami mengenal pasti di mana pengguna menurunkan, membolehkan anda menukar perjalanan dan menguji lagi menggunakan ujian A/B.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Portal Web WebPOS|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Persona">
+      <Expression Value="Apakah Persona?" />
+      <Expression Value="Apakah itu Persona?" />
+      <Expression Value="Persona-ms?" />
+      <Expression Value="Personas?" />
+      <Response>Persona, adalah watak fiksyen yang dicipta untuk mewakili jenis pengguna yang mungkin menggunakan laman web, jenama, atau produk dengan cara yang sama. Pemasar menggunakan persona dengan segmen pasaran, di mana persona kualitatif dibina untuk mewakili segmen tertentu. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' membolehkan anda mencipta persona untuk memahami keperluan, pengalaman, tingkah laku dan matlamat pengguna anda. Kemudian tentukan peraturan pemarkahan untuk menyerahkan pengguna secara automatik kepada orang tertentu berdasarkan interaksi mereka dengan laman web dan data yang anda ambil.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Portal Web WebPOS|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Pemarkahan Lead">
+      <Expression Value="Apakah Pemarkahan Lead?" />
+      <Expression Value="Apakah itu Pemarkahan Lead?" />
+      <Expression Value="Pemarkahan Utama?" />
+      <Response>Pemarkahan Lead adalah metodologi yang digunakan untuk menilai prospek terhadap skala yang mewakili nilai yang dilihat setiap lead mewakili organisasi. Skor yang terhasil digunakan untuk menentukan mana-mana lead fungsi penerimaan (misalnya jualan, rakan kongsi, tele-prospecting) akan terlibat, demi keutamaan. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' membolehkan anda menentukan kedua-dua persona dan pemarkahan utama untuk menyasarkan segmen atau orang yang mencari keperluan khusus. Pemarkahan utama secara dinamik mengemas kini skor berdasarkan perubahan kepada maklumat perhubungan dan aktiviti, yang kemudiannya boleh digunakan untuk kempen peribadi.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Portal Web WebPOS|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Kempen peribadi">
+      <Expression Value="Apakah Kempen peribadi?" />
+      <Expression Value="Apakah itu Kempen peribadi?" />
+      <Expression Value="Apakah makna Kempen peribadi?" />
+      <Expression Value="Kempen peribadi?" />
+      <Response>Membina kempen yang diperibadikan di mana setiap langkah ditakrifkan oleh interaksi pelanggan sebelumnya dengan jenama anda. Ia amat penting untuk mengetahui dengan tepat siapa yang anda cuba menjual produk anda kepada jika anda ingin menggunakan sumber anda dengan lebih cekap, dengan mengenal pasti persona untuk kempen itu, termasuk maklumat seperti umur mereka, pekerjaan mereka, kekayaan mereka, status kelas dan keadaan keluarga mereka. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' membolehkan anda membina kempen, mengenal pasti kumpulan sasaran berdasarkan persona atau skor utama, menjejaki maklum balas untuk memantau penurunan, dan menggunakan ujian A/B ke identiti pilihan kempen terbaik.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Menyampaikan Kempen Berkesan">
+      <Expression Value="Apakah Menyampaikan Kempen Berkesan?" />
+      <Expression Value="Apakah itu Menyampaikan Kempen Berkesan?" />
+      <Expression Value="Apakah makna Menyampaikan Kempen Berkesan?" />
+      <Expression Value="Menyampaikan Kempen Berkesan?" />
+      <Response>Automasi Pemasaran boleh meningkatkan keberkesanan pemasaran anda dan ROI kempen anda dengan mencetuskan aktiviti susulan untuk memupuk prospek. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' membolehkan anda membina dan memantau kempen, dan kemudian mencetuskan aktiviti automasi pemasaran selanjutnya untuk memupuk prospek, sekiranya mereka tidak bersedia untuk membeli dengan segera.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Pengurusan Rujukan ReMMA|Portal Web WebPOS|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Automasi Proses Robotik">
+      <Expression Value="Apakah Automasi Proses Robotik?" />
+      <Expression Value="Apakah itu Automasi Proses Robotik?" />
+      <Expression Value="Automasi Proses Robotik?" />
+      <Response>Automasi Proses Robotik (RPA) adalah teknologi inovatif yang mengotomatisasi proses perniagaan berstruktur. RPA berfungsi sama seperti salah seorang pekerja anda, berinteraksi dengan interface aplikasi pengguna anda yang sedia ada dan menjalankan proses terstruktur secara automatik kos efektif mengurangkan interaksi manusia. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' menggunakan RPA untuk mengotomatisasi proses pemasaran, servis pelanggan dan pencetus skor analitik prediktif. Ia boleh mengesahkan data, serahkan secara automatik kepada kakitangan perkhidmatan, menjejaki status dan jika tidak diselesaikan dalam tempoh perkhidmatan, meningkat kepada pengurusan.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Pengurusan Rujukan ReMMA|Khidmat Diri Pelanggan CSSP|Chatbot FITbot-ms|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Rangka Kerja Digital Enterprise Terhubung-ms">
+      <Expression Value="Apakah Rangka Kerja Digital Enterprise Terhubung-ms?" />
+      <Expression Value="Apakah itu Rangka Kerja Digital Enterprise Terhubung-ms?" />
+      <Expression Value="Rangka Kerja Digital Enterprise Terhubung-ms?" />
+      <Response>Objektif Rangka Kerja Digital Enterprise Terhubung adalah untuk membolehkan Transformasi Digital Peribadi, dari Pemasaran, Penjualan, Pemerolehan Pelanggan dan Penempatan dengan melibatkan pengguna dan pelanggan dan mengetahui apa yang telah dilakukan oleh pengguna sebelum dan mempersonalisasikan respons 24x7. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' membantu para penanggung insurans dan pengendali takaful secara digital mengubah cara mereka berinteraksi dengan pengguna dan pelanggan dengan interaksi omni-saluran yang menggabungkan chatbots berbilang bahasa, pengurusan rujukan, portal pelanggan dan Automasi Proses Robotik untuk menawarkan penglibatan peribadi 24/7.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Analisis Ramalan">
+      <Expression Value="Apakah Analisis Ramalan?" />
+      <Expression Value="Apakah itu Analisis Ramalan?" />
+      <Expression Value="Analisis Ramalan?" />
+      <Response>Analisis ramalan digunakan dalam menilai dan mengawal risiko dalam persistensi, pengunderaitan, penentuan harga, penarafan, tuntutan, pemasaran dan reservasi dalam sektor Insurans. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' baru-baru ini telah melancarkan model analisis ramalannya untuk pemasaran dan meramalkan apabila seseorang mungkin luput dari dasar mereka. Model ramalan tambahan akan dilancarkan untuk pengunderaitan dan tuntutan.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Khidmat Diri Pelanggan CSSP|Chatbot FITbot-ms|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Melibatkan pelanggan sedia ada">
+      <Expression Value="Bagaimanakah 121Advisor melibatkan pelanggan sedia ada?" />
+      <Expression Value="Melibatkan pelanggan sedia ada?" />
+      <Response>Ia amat penting untuk melibatkan diri dengan pelanggan untuk mengautomasikan proses perjalanan pelanggan dengan menyediakan petua berguna dan mendidik mereka tentang cara memanfaatkan sepenuhnya produk atau perkhidmatan melalui penglibatan peribadi. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' menggunakan portal khidmat pelanggan, untuk menilai secara automatik persona dan skor untuk mengenal pasti keperluan pelanggan, kemudian menggunakan Automasi Proses Robotik (RPA), untuk menghantar petua dan tawaran produk yang relevan kepada para pelanggan, dan memaklumkan ejen semasa untuk susulan.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Khidmat Diri Pelanggan CSSP|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Panduan pembeli">
+      <Expression Value="Apakah Panduan pembeli?" />
+      <Expression Value="Apakah itu Panduan pembeli?" />
+      <Expression Value="Panduan pembeli?" />
+      <Response>Pembeli lead menerusi perjalanan pelanggan mereka dan membantu mereka memahami keperluan kewangan mereka dan mengesyorkan produk, untuk menyelesaikan pembelian mereka. 'Rangka Kerja Digital Enterprise Pertama Terhubung Pelanggan' menggunakan penasihat Robo berbilang bahasa dan melibatkan calon pembeli untuk membantu mereka memahami matlamat kewangan mereka, memahami betapa mereka perlukan dan mengesyorkan produk. Pembeli kemudiannya boleh membeli atas talian atau berhubung dengan penasihat berhampiran.
+Adakah anda ingin saya menghantar beberapa maklumat mengenai Enterprise Pertama Terhubung Pelanggan? [Ya]
+<Hint>R@@ Pengurusan Rujukan ReMMA|Portal Web WebPOS|Penyelesaian121</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

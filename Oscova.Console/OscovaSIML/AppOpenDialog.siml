@@ -1,0 +1,16 @@
+﻿<Siml>
+  <Dialog Name="OpenApp" Domain="TechSupport">
+   
+    <Intent Name="open.app">
+      <Expression Value="launch @app" />
+	  <Expression Value="run @app" />
+	  <Expression Value="start the @app application" />
+      <Expression Value="open @app" />
+      <Prompt Type="@app">what app you want to open.</Prompt>
+      <Response>
+        <Action ID="open-app-action" />
+           <Entity Get="app"></Entity> opened
+      </Response>
+    </Intent>
+    </Dialog>
+</Siml>

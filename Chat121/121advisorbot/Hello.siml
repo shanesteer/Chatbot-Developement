@@ -1,0 +1,40 @@
+﻿<Siml>
+  <Dialog Name="HelloBotDialog" IntentAlias="smalltalk-greetings">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="Hello Bot" />
+      <Response>Hello Developer!</Response>
+    </Intent>
+    
+   		 <Intent>
+      		<Expression Value="How are you" />
+      		<Response>Im fine thank you!</Response>
+    	</Intent>
+    
+    <Intent>
+      <Expression Value="How's the weather?" />
+      <Response>It's sunny outside!</Response>
+    </Intent>
+    
+   		 <Intent>
+     		 <Expression Value="Where are you from?" />
+     	 	<Response>I'm from Malaysia. Where are you from?</Response>
+    	</Intent>
+    
+    <Intent>
+      <Expression Value="I'm from England." />
+      <Response>That's a great country</Response>
+    </Intent>
+    
+     	<Intent>
+     		 <Expression Value="Can you buy insurance at any time?" />
+      		<Response>Yes you can</Response>
+    	</Intent>
+    
+     <Intent>
+      <Expression Value="I'm from England." />
+      <Response>That's a great country</Response>
+    </Intent>
+  </Dialog>
+</Siml>

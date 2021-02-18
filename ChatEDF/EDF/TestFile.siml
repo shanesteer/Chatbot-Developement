@@ -1,0 +1,126 @@
+﻿<Siml>
+  <Dialog Name="ForTest" IntentAlias="testing">
+    
+    <Intent>
+      <Expression Value="UPDATE PERSONAL DETAILS" />
+      <Response>
+        <Label>:PERSONAL-DETAILS-TEST</Label>
+		Your personal details are <br />
+		Name: <User Get="Name" /><br />
+		Email: <User Get="Email" /><br />
+		Phone: <User Get="Phone" /><br />
+		Is that your personal details?
+		<Hint>R@@ Yes|No</Hint></Response>
+      
+      <Intent>
+        <Expression Value="YES" />
+        <Response>
+          <UpdateContact />
+        </Response>
+      </Intent>
+      
+      <Intent>
+        <Expression Value="NO" />
+        <Response>You can update again.</Response>
+      </Intent>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="TESTCAROUSELONTRANSFORMATION" />
+      <Response>
+        <MacroResolver>{% CurrentUser.ApplyTransformation("Advisor121.FitBot.TestCarousel", "Advisor121.FitBot.CarouselHeader", "Advisor121.FitBot.CarouselFooter") %}</MacroResolver>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="TESTIMAGEWITHADAPTER" />
+      <Response>
+        <Image Type="File" Source="~/App_Themes/121Advisor/chatbot/Content/Images/pic_mountain.png" Alt="mountain" Title="mountain" />
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="TESTIMAGE64WITHADAPTER" />
+      <Response>
+        <Image Type="Base64" Source="~/App_Themes/121Advisor/chatbot/Content/Images/pic_mountain.png" Alt="mountain" Title="mountain" />
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="TESTLINKWITHADAPTER" />
+      <Response>
+        <Link Url="https://skylow224-jschatbox.azurewebsites.net" Title="jschatbox">jschatbox</Link>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="TESTVIDEOWITHADAPTER" />
+      <Response>
+        <Video Name="121Advisor" Source="https://www.youtube.com/embed/mKRCkmo6RGg"></Video>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="TESTREPLIESBAR-ONMESSAGE" />
+      <Response>
+			testData
+			<Hint><Suggest Type="OnMessage" Name="Suggest_Message"><Button>First</Button><Button>Second</Button><Button>Third</Button></Suggest></Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="TESTREPLIESBAR-ONBOTTOM" />
+      <Response>
+			testData On Bottom
+			<Hint><Suggest Type="OnBottom" Name="Suggest_Bottom"><Button>First</Button><Button>Second</Button><Button>Third</Button></Suggest></Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="TESTCUSTOMDATA" />
+      <Response>
+        <MacroResolver>
+				{% GlobalObjects.AccountDocs.DisplayNames %}
+		</MacroResolver>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="BLOGCAROUSEL" />
+      <Response>
+        <MacroResolver>
+				{% Documents["/Blogs"].AllChildren.Where("ClassName like 'CMS.BlogPost'").WithAllData.ApplyTransformation("Advisor121.FitBot.BlogCarousel", "Advisor121.FitBot.CarouselHeader", "Advisor121.FitBot.CarouselFooter") %}
+			</MacroResolver>
+      </Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="MINIFORM-POPUPONCLICK" />
+      <Response>
+		For More Details Please Click Below Button<br /><Form Type="PopUp_OnClick" Source="~/ChatBotForms/PersonalDetails.aspx"></Form></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="MINIFORM-POPUP" />
+      <Response>
+		This is a direct Pop-up.
+		<Form Type="PopUp" Source="~/ChatBotForms/PersonalDetails.aspx"></Form></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="MINIFORM-PERSONALDETAILS" />
+      <Response>
+        <Label>:PERSONAL-DETAILS-TEST</Label>
+		Your personal details are <br />
+		Name: <User Get="Name" /><![CDATA[&nbsp;]]><User Get="LastName" /><br />
+		Email: <User Get="Email" /><br />
+		Phone: <User Get="Phone" /><br /><Form Type="PopUp_OnClick" Source="~/ChatBotForms/PersonalDetails.aspx"></Form></Response>
+      
+      <Intent>
+        <Expression Value="OK" />
+        <Response>
+				Update Successful!
+			</Response>
+      </Intent>
+    </Intent>
+    
+  </Dialog>
+</Siml>

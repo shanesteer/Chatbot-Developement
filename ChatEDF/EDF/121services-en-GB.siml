@@ -1,0 +1,98 @@
+﻿<Siml>
+  <Dialog Name="121Services" IntentAlias="Services">
+    
+    <Intent>
+      <Expression Value="What kind of services does 121Advisor provide?" />
+      <Expression Value="What services are available to the customers?" />
+      <Expression Value="What services are provided to the customers?" />
+      <Expression Value="Services?" />
+      <Expression Value="Services" />
+      <Expression Value="121Services?" />
+      <Response>121Advisor's Digital Marketing Services enable our customers to deliver end-to-end Customer First Connected Enterprise solutions for Marketing, Branding, Prospecting, Selling and Servicing using our CXM 2.0 Customer eXperience Management methodology. 121Advisor also provides Hosted Services, Multi-lingual Chatbot, Robo Advisor implementation and Mobile e-learning Course Development.
+<Hint>R@@ Digital Marketing Services|CXM 2.0|AIDA model|ALA model|CHATbot services|Hosted services|Mobile e-learning|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Digital Marketing Services">
+      <Expression Value="What is Digital Marketing Services?" />
+      <Expression Value="What's Digital Marketing Services?" />
+      <Expression Value="Digital Marketing Services?" />
+      <Response>Digital Marketing Services defines target segments via automated Persona rules assessment and develops personalized Customer Journeys for each target segment.
+<Hint>R@@ CXM 2.0|AIDA model|ALA model|CHATbot services|Hosted services|Mobile e-learning|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="en-GB CXM 2.0">
+      <Expression Value="What is CXM 2.0 Customer Experience Management Model?" />
+      <Expression Value="What's CXM 2.0 Customer Experience Management Model?" />
+      <Expression Value="CXM 2.0 Customer Experience Management Model?" />
+      <Expression Value="CXM 2.0?" />
+      <Response>CXM 2.0 Customer Experience Management Model is a 5 step end-to-end personalized consumer engagement model that builds Personalized Customer Journeys based on target personas and lead scoring AIDA model for referrals, marketing and sales or ALA model for servicing, cross-sell and upsell.
+<Hint>R@@ Digital Marketing Services|AIDA model|ALA model|CHATbot services|Hosted services|Mobile e-learning|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="AIDA model meaning">
+      <Expression Value="What does AIDA model mean?" />
+      <Expression Value="What does AIDA model stand for?" />
+      <Expression Value="AIDA model meaning?" />
+      <Expression Value="What is the meaning of the AIDA model?" />
+      <Response>AIDA model stands for the Awareness Interest Desire Action model.
+<Hint>R@@ Digital Marketing Services|CXM 2.0|AIDA model|ALA model|CHATbot services|Hosted services|Mobile e-learning|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="ALA model meaning">
+      <Expression Value="What does ALA model mean?" />
+      <Expression Value="What does ALA model stand for?" />
+      <Expression Value="ALA model meaning?" />
+      <Expression Value="What is the meaning of the ALA model?" />
+      <Response>ALA model stands for the Adoption Loyalty Advocacy model.
+<Hint>R@@ Digital Marketing Services|CXM 2.0|AIDA model|ALA model|CHATbot services|Hosted services|Mobile e-learning|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="AIDA model">
+      <Expression Value="What is the AIDA model?" />
+      <Expression Value="What's the AIDA model?" />
+      <Expression Value="What is the Awareness Interest Desire Action model?" />
+      <Expression Value="What's the Awareness Interest Desire Action model?" />
+      <Expression Value="AIDA model?" />
+      <Expression Value="Awareness Interest Desire Action model?" />
+      <Response>Awareness Interest Desire Action model creates personalized marketing and purchase interactions based on persona segments to create interest and desire to buy the right product.
+<Hint>R@@ AIDA model meaning|Digital Marketing Services|CXM 2.0|ALA model|CHATbot services|Hosted services|Mobile e-learning|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="ALA model">
+      <Expression Value="What is the ALA model?" />
+      <Expression Value="What's the ALA model?" />
+      <Expression Value="What is the Adoption Loyalty Advocacy model?" />
+      <Expression Value="What's the Adoption Loyalty Advocacy model?" />
+      <Expression Value="ALA model?" />
+      <Expression Value="Adoption Loyalty Advocacy model?" />
+      <Response>Adoption Loyalty Advocacy model delivers great experience via personalized customer services engagement to build trusted relationships encouraging referrals.
+<Hint>R@@ ALA model meaning|Digital Marketing Services|CXM 2.0|AIDA model|CHATbot services|Hosted services|Mobile e-learning|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="CHATbot services">
+      <Expression Value="What is Multi-Lingual Chatbot and Robo Advisor Implementation?" />
+      <Expression Value="What's Multi-Lingual Chatbot and Robo Advisor Implementation?" />
+      <Expression Value="Multi-Lingual Chatbot and Robo Advisor Implementation?" />
+      <Expression Value="CHATbot services?" />
+      <Response>Multi-Lingual Chatbot and Robo Advisor reduces customer service costs by up to 40% by implementing 24×7 intelligent multi-lingual bots.
+ <Hint>R@@ Digital Marketing Services|CXM 2.0|AIDA model|ALA model|Hosted services|Mobile e-learning|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Hosted services">
+      <Expression Value="What is Hosted services?" />
+      <Expression Value="What's Hosted services?" />
+      <Expression Value="Hosted services?" />
+      <Response>121Advisor is a regulatory approved financial services outsource provider of SaaS (Software as a Service) application hosting and 3-tier regulatory compliant infrastructure hosting with disaster recovery site that runs 24/7.
+<Hint>R@@ Digital Marketing Services|CXM 2.0|AIDA model|ALA model|CHATbot services|Mobile e-learning|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Mobile e-learning Course Development">
+      <Expression Value="What is Mobile e-learning Course Development?" />
+      <Expression Value="What's Mobile e-learning Course Development?" />
+      <Expression Value="Mobile e-learning Course Development?" />
+      <Response>121Advisor assists agency training departments in conversion of existing training material into mobile e-learning content that can be downloaded and run offline on agent’s mobile devices.
+<Hint>R@@ Digital Marketing Services|CXM 2.0|AIDA model|ALA model|CHATbot services|Hosted services|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

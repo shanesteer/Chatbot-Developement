@@ -1,0 +1,12 @@
+﻿<Siml>
+  <Dialog Name="121WelcomeMessage" IntentAlias="121.WelcomeMessage">
+    
+    <Intent>
+		<Expression Value="STARTUPMESSAGE" />
+		<Response>Hi, I am <Bot Get="Name" />, I am happy to answer any questions on the solutions and services offered by 121Advisor.
+			<Hint>R@@ Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint>
+		</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

@@ -1,0 +1,269 @@
+﻿<Siml>
+  <Dialog Name="121solutions" IntentAlias="EDF.Solutions">
+    
+    <Intent>
+      <Expression Value="What is Customer First Connected Enterprise Digital Framework?" />
+      <Expression Value="What's CFCEDF?" />
+      <Expression Value="CFCEDF?" />
+      <Expression Value="EDF?" />
+      <Expression Value="Enterprise Digital Framework?" />
+      <Expression Value="Customer First Connected Enterprise Digital Framework?" />
+      <Expression Value="121Solutions?" />
+      <Expression Value="121 Solutions?" />
+      <Expression Value="Other solutions?" />
+      <Expression Value="Solutions?" />
+      <Expression Value="What products do you have?" />
+      <Response>Customer First Connected Enterprise Digital Framework satisfies all your digital needs using 121 Advisor's solutions such as Multi-lingual Chatbot for Financial, Insurance and Takaful (FITbot), Web Portal Solution for Sales and Servicing (WebPoS), Referral Management and Marketing Automation (ReMMA), Sales Activity Mobile App (SAMA), Choices Online Store (COS), Takaful and Insurance Mobility Made Simple (TIMMS), Customer Self-Service Portal (CSSP), Community and E-worksite Marketing and Distribution (CeMD), Multi-channel Distribution Management Solution (McDMS) and Enterprise Product Configurator (EPC).
+<Hint>R@@ Customer First|Connected Enterprise Digital Framework|Referral Management ReMMA|Customer Service CSSP|Chatbot FITbot-en|Online Community CeMD|Web Portals WebPOS-en|Sales Activity SAMA|Choices Online Store COS|Mobile Point of Sales TIMMS|Multi-channel Distribution McDMS|Enterprise Product Configurator EPC|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="FITbot">
+      <Expression Value="What is FITbot?" />
+      <Expression Value="What's FITbot?" />
+      <Expression Value="FITbot?" />
+      <Expression Value="What is CHATbot?" />
+      <Expression Value="What's CHATbot?" />
+      <Expression Value="CHATbot?" />
+      <Expression Value="CHATbot FITbot-en?" />
+      <Expression Value="I would like to know more about FITbot" />
+      <Expression Value="I would like to know more about CHATbot" />
+      <Expression Value="Multi-lingual Chatbot for Financial, Insurance and Takaful (FITbot)" />
+      <Response>Multi-lingual Chatbot for Financial, Insurance and Takaful (FITbot) is a multi-lingual Robo Advisor and chatbot that utilizes hybrid trees and natural language processing (NLP) to engage with customers to offer a more personalized customer experience and generate more referrals. The Robo Advisor provides lifestyle advice on financial goals and recommends products for those goals integrating with (WebPoS), (ReMMA), (SAMA), (COS), (TIMMS), (CSSP), (CeMD), (McDMS) and (EPC).
+<Hint>R@@ Robo Advisor|Robotic Process Automation|Referral Management ReMMA|Customer Service CSSP|Online Community CeMD|Web Portals WebPOS-en|Sales Activity SAMA|Choices Online Store COS|Mobile Point of Sales TIMMS|Multi-channel Distribution McDMS|Enterprise Product Configurator EPC|Contact Us|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="WebPoS">
+      <Expression Value="What is WebPoS?" />
+      <Expression Value="What's WebPoS?" />
+      <Expression Value="WebPoS?" />
+      <Expression Value="(WebPoS)" />
+      <Expression Value="Web Portals WebPOS-en" />
+      <Expression Value="Web Portal Solution for Sales and Servicing (WebPoS)" />
+      <Response>Web Portal Solution for Sales and Servicing (WebPoS) is a multi-lingual mobile responsive website and portal solution to enable clients to experience a unified personalized digital experience where content, sales, marketing and work management are consolidated instead of siloed.
+<Hint>R@@ Customer Journey|Personas|Lead Scoring|Delivering Effective Campaigns|Buyer guidance|Referral Management ReMMA|Customer Service CSSP|Chatbot FITbot-en|Online Community CeMD|Sales Activity SAMA|Choices Online Store COS|Mobile Point of Sales TIMMS|Multi-channel Distribution McDMS|Enterprise Product Configurator EPC|Contact Us|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="ReMMA">
+      <Expression Value="What is ReMMA?" />
+      <Expression Value="What's ReMMA?" />
+      <Expression Value="ReMMA?" />
+      <Expression Value="(ReMMA)" />
+      <Expression Value="Referral Management and Marketing Automation (ReMMA)" />
+      <Expression Value="Referral Management ReMMA" />
+      <Response>Referral Management and Marketing Automation (ReMMA) bridges the gap between marketing and sales. It is a customer acquisition process which identifies potential buyers, educates them, engages with them, and when the leads are considered qualified, get passed to financial advisors.The ‘Customer First Connected Enterprise Digital Framework’ referral management and marketing automation has been successfully used to significantly increase sales and improve closing ratios. It is used to get referrals from staff, third parties and customers.
+<Hint>R@@ Personalized Engagement|Marketing Automation|Lead nurturing|Customer Journey|Personas|Lead Scoring|Personalized campaigns|Delivering Effective Campaigns|Robotic Process Automation|Buyer guidance|Customer Service CSSP|Chatbot FITbot-en|Online Community CeMD|Web Portals WebPOS-en|Sales Activity SAMA|Choices Online Store COS|Mobile Point of Sales TIMMS|Multi-channel Distribution McDMS|Enterprise Product Configurator EPC|Contact Us|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="SAMA">
+      <Expression Value="What is SAMA?" />
+      <Expression Value="What's SAMA?" />
+      <Expression Value="SAMA?" />
+      <Expression Value="(SAMA)" />
+      <Expression Value="Sales Activity Mobile App (SAMA)" />
+      <Response>Sales Activity Mobile App (SAMA) allows agents to effectively plan and manage sales activities to ensure all leads and prospects are followed up. Managers can monitor Activity KPIs real time to render assistance where necessary.
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|Chatbot FITbot-en|Online Community CeMD|Web Portals WebPOS-en|Choices Online Store COS|Mobile Point of Sales TIMMS|Multi-channel Distribution McDMS|Enterprise Product Configurator EPC|Contact Us|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="COS">
+      <Expression Value="What is COS?" />
+      <Expression Value="What's COS?" />
+      <Expression Value="COS?" />
+      <Expression Value="(COS)" />
+      <Expression Value="Choices?" />
+      <Expression Value="Choices Online Store (COS)" />
+      <Response>Choices Online Store (COS) allows insurers and takaful operators to provide direct purchase of products online, integrate with Multi-lingual Chatbot for FITbot robo-advisor services as well as referrals via ReMMA and uses the EPC to quickly setup and auto-test new products.
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|Chatbot FITbot-en|Online Community CeMD|Web Portals WebPOS-en|Sales Activity SAMA|Mobile Point of Sales TIMMS|Multi-channel Distribution McDMS|Enterprise Product Configurator EPC|Contact Us|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="TIMMS">
+      <Expression Value="What is TIMMS?" />
+      <Expression Value="What's TIMMS?" />
+      <Expression Value="TIMMS?" />
+      <Expression Value="(TIMMS)" />
+      <Expression Value="Takaful and Insurance Mobility Made Simple (TIMMS)" />
+      <Expression Value="Mobile Point of Sales TIMMS" />
+      <Response>Takaful and Insurance Mobility Made Simple (TIMMS) is a cross platform mobile Point of Sales solution allowing agents to create leads, set activities, identify client financial needs via Customer Fact Find, recommend products, make presentations, generate quotes and PDF Sales Illustration in any language, pre-underwrite and e-submit applications, in a regulatory compliant process and uses the EPC to quickly setup and auto-test new products.
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|Chatbot FITbot-en|Online Community CeMD|Web Portals WebPOS-en|Sales Activity SAMA|Choices Online Store COS|Multi-channel Distribution McDMS|Enterprise Product Configurator EPC|Contact Us|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="CSSP">
+      <Expression Value="What is CSSP?" />
+      <Expression Value="What's CSSP?" />
+      <Expression Value="CSSP?" />
+      <Expression Value="(CSSP)" />
+      <Expression Value="Customer Self-Service Portal (CSSP)" />
+      <Response>Customer Self-Service Portal (CSSP) reduces operating cost by enabling customers online access to view policies and contracts, make renewal payment, submit service requests, download documents, seek information via Robo Advisor, or file a complaint and provides 24x7 personalized engagement using personas to suggest products that the person may need, and run targeted cross-sell / upsell campaigns.  Option to use mobile customer app.
+<Hint>R@@ Personalized Engagement|Customer Journey|Personas|Lead Scoring|Personalized campaigns|Robotic Process Automation|Predictive Analytics|Engaging existing customers|Referral Management ReMMA|Chatbot FITbot-en|Online Community CeMD|Web Portals WebPOS-en|Sales Activity SAMA|Choices Online Store COS|Mobile Point of Sales TIMMS|Multi-channel Distribution McDMS|Enterprise Product Configurator EPC|Contact Us|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="CeMD">
+      <Expression Value="What is CeMD?" />
+      <Expression Value="What's CeMD?" />
+      <Expression Value="CeMD?" />
+      <Expression Value="(CeMD)" />
+      <Expression Value="Community and E-worksite Marketing and Distribution (CeMD)" />
+      <Response>Community and E-worksite Marketing and Distribution (CeMD) is a community portal enabling companies to engage with their community members to share, nurture, trust and create advocates thereby improving customer retention. Community members can view lifestyle content, engage in discussion forums to suggest new products or get advice, talk with other members via secured messaging and receive selected newsletters based on their preference.
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|Chatbot FITbot-en|Web Portals WebPOS-en|Sales Activity SAMA|Choices Online Store COS|Mobile Point of Sales TIMMS|Multi-channel Distribution McDMS|Enterprise Product Configurator EPC|Contact Us|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="McDMS">
+      <Expression Value="What is McDMS?" />
+      <Expression Value="What's McDMS?" />
+      <Expression Value="McDMS?" />
+      <Expression Value="(McDMS)" />
+      <Expression Value="Multi-channel Distribution Management Solution (McDMS)" />
+      <Response>Multi-channel Distribution Management Solution (McDMS) for general agencies, IFAs, brokers and agents to simplify operations by consolidating their diverse requirements. With built in performance management, compensation and tax computation our clients have seen improved sales with reduced administration costs.
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|Chatbot FITbot-en|Online Community CeMD|Web Portals WebPOS-en|Sales Activity SAMA|Choices Online Store COS|Mobile Point of Sales TIMMS|Enterprise Product Configurator EPC|Contact Us|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="EPC">
+      <Expression Value="What is EPC?" />
+      <Expression Value="What's EPC?" />
+      <Expression Value="EPC?" />
+      <Expression Value="(EPC)" />
+      <Expression Value="Enterprise Product Configurator (EPC)" />
+      <Response>Enterprise Product Configurator (EPC) rapidly sets up product rules, rates and illustrations and reduces the time to market for insurance and takaful products. The automated testing module allows quick verification and simple product deployment. The EPC rating and rule validation engine is used both for online and offline sales.
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|Chatbot FITbot-en|Online Community CeMD|Web Portals WebPOS-en|Sales Activity SAMA|Choices Online Store COS|Mobile Point of Sales TIMMS|Multi-channel Distribution McDMS|Contact Us|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Customer First">
+      <Expression Value="What is Customer First?" />
+      <Expression Value="What's Customer First?" />
+      <Expression Value="Customer First?" />
+      <Response>Putting the customer first is essential for customer-retention and customer-loyalty. Customer first, means that you are putting the needs and requirements of a customer ahead of everything else. Oriented towards serving the customer needs, and measure customer-satisfaction levels in order to determine the success of your business. The ‘Customer First Connected Enterprise Digital Framework’ manages customer experiences from prospects, leads, customer service, using Robotic Process Automation to ensure enquiries are followed up to meet customer satisfaction levels.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes] 
+<Hint>R@@ Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Personalized Engagement">
+      <Expression Value="What is Personalized Engagement?" />
+      <Expression Value="What's Personalized Engagement?" />
+      <Expression Value="Personalized Engagement?" />
+      <Response>Personalized Engagement is critical to getting more sales and building customer trust. 80% of consumers say that if the content or product does not meet their need, they will exit and jump to another site. The ‘Customer First Connected Enterprise Digital Framework’ automatically identifies the persona of a person, and uses this to offer personalized content and products. For example, if you have a family, then personalization will send articles on child education with products that meet these needs.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Marketing Automation">
+      <Expression Value="What is Marketing Automation?" />
+      <Expression Value="What's Marketing Automation?" />
+      <Expression Value="Marketing Automation?" />
+      <Response>Consumers and Customers go through multiple stages of their life cycle, from single, married, family to retired. Marketing Automation allows you to deliver them the right content and initiate sales activities in a personalized way, as well as running personalized campaigns to cross sell or upsell new products based on their needs. The ‘Customer First Connected Enterprise Digital Framework’ enables you to quickly build personalized automation workflows for prospects and customers, and create target campaigns matching their needs.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Referral Management ReMMA|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Lead nurturing">
+      <Expression Value="What is Lead nurturing?" />
+      <Expression Value="What's Lead nurturing?" />
+      <Expression Value="Lead nurturing?" />
+      <Response>Lead nurturing is the process of engaging a defined target group by providing engaging content at each stage of the buyer’s journey, by establishing yourself as an expert in what you offer. You want to actively move the prospects through your marketing and lead generation efforts, to the point where they become paying customers. The ‘Customer First Connected Enterprise Digital Framework’ offers lead nurturing both to prospects as well as to customers in order to build a trusted relationship, by offering relevant information and products at the right time.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Referral Management ReMMA|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Robo Advisor">
+      <Expression Value="What is Robo Advisor?" />
+      <Expression Value="What's Robo Advisor?" />
+      <Expression Value="Robo Advisor?" />
+      <Response>Robo advisors provide financial advice online with minimal human intervention. They provide digital financial advice based on mathematical rules or algorithms which are computed online and thus financial advice do not require a human advisor, unless requested by the user. The ‘Customer First Connected Enterprise Digital Framework’ multi-lingual FITbot Robo Advisor enables consumers 24x7 personalized engagement, to get information about their lifestyle financial goals and understand how much they need. Consumers can then decide to buy online or connect with an advisor.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Chatbot FITbot-en|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Customer Journey">
+      <Expression Value="What is Customer Journey?" />
+      <Expression Value="What's Customer Journey?" />
+      <Expression Value="What does Customer Journey mean?" />
+      <Expression Value="Customer Journey?" />
+      <Response>A customer journey map tells the story of the customer’s experience from initial contact, through engagement and into a long-term relationship. It identifies what they want to achieve, and what their expectations of the organization are. The ‘Customer First Connected Enterprise Digital Framework’ enables teams to define and track customer journeys for websites, portals and chatbots. Tracking enables us to identify where consumers drop off, enabling you to change the journey and test again using AB testing.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|Web Portals WebPOS-en|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Personas">
+      <Expression Value="What is a Persona?" />
+      <Expression Value="What's a Persona?" />
+      <Expression Value="Persona?" />
+      <Expression Value="Personas?" />
+      <Response>A persona, is a fictional character created to represent a user type that might use a site, brand, or product in a similar way. Marketers use personas together with market segmentation, where the qualitative personas are constructed to be representative of specific segments. The ‘Customer First Connected Enterprise Digital Framework’ enables you to create personas in order to understand your users’ needs, experiences, behaviours and goals. Then define scoring rules to auto-assign consumers to specific personas based on their interaction with the website and data that you capture.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|Web Portals WebPOS-en|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Lead Scoring">
+      <Expression Value="What is Lead Scoring?" />
+      <Expression Value="What's Lead Scoring?" />
+      <Expression Value="Lead Scoring?" />
+      <Response>Lead scoring is a methodology used to rank prospects against a scale that represents the perceived value each lead represents to the organization. The resulting score is used to determine which leads a receiving function (e.g. sales, partners, tele-prospecting) will engage, in order of priority. The ‘Customer First Connected Enterprise Digital Framework’ enables you to define both personas and lead scoring to target segments or people looking for specific needs. Lead scoring dynamically updates the scores based on changes to contact details and activities, which can then be used for personalized campaigns.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|Web Portals WebPOS-en|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Personalized campaigns">
+      <Expression Value="What is Personalized campaigns?" />
+      <Expression Value="What's Personalized campaigns?" />
+      <Expression Value="What does Personalized campaigns mean?" />
+      <Expression Value="Personalized campaigns?" />
+      <Response>Create personalized campaigns where each step is defined by previous customer interactions with your brand. Knowing exactly who it is that you are trying to sell your products to is hugely important if you want to be able to use your resources more efficiently, by identifying the persona for that campaign, including information such as their age, their occupation, their wealth and class status, their family situation. The ‘Customer First Connected Enterprise Digital Framework’ enables you to create campaigns, identify the target group based on persona or lead score, track the responses to monitor drop off, and use A/B testing to identity the best campaign option.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Delivering Effective Campaigns">
+      <Expression Value="What is Delivering Effective Campaigns?" />
+      <Expression Value="What's Delivering Effective Campaigns?" />
+      <Expression Value="What does Delivering Effective Campaigns mean?" />
+      <Expression Value="Delivering Effective Campaigns?" />
+      <Response>Marketing Automation can increase your marketing effectiveness and the ROI of your campaigns through triggering follow up activities to nurture prospects. The ‘Customer First Connected Enterprise Digital Framework’ enables you to create and monitor campaigns, and then trigger further marketing automation activities to nurture prospects, in the event they are not ready to buy immediately.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Referral Management ReMMA|Web Portals WebPOS-en|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Robotic Process Automation">
+      <Expression Value="What is Robotic Process Automation?" />
+      <Expression Value="What's Robotic Process Automation?" />
+      <Expression Value="Robotic Process Automation?" />
+      <Response>Robotic Process Automation (RPA) is an innovative technology which automates structured business processes. RPA works just like one of your employees, interacting with the user interfaces of your existing applications and carrying out structured processes automatically cost-effectively reducing human interaction. The ‘Customer First Connected Enterprise Digital Framework’ uses RPA to automate processes for marketing, customer servicing and predictive analytics scoring triggers. It can verify data, auto-assign to service staff, track the status and if not completed within the service period, escalate to management.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Referral Management ReMMA|Customer Service CSSP|Chatbot FITbot-en|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Connected Enterprise Digital Framework">
+      <Expression Value="What is Connected Enterprise Digital Framework?" />
+      <Expression Value="What's Connected Enterprise Digital Framework?" />
+      <Expression Value="Connected Enterprise Digital Framework?" />
+      <Response>A Connected Enterprise Digital Framework objective is to enable Personalized Digital Transformation, from Marketing, Sales, Customer acquisition and Servicing by engaging with consumers and customers 24x7 knowing what the consumer has done before and personalizing responses. The ‘Customer First Connected Enterprise Digital Framework’ helps insurers and takaful operators digitally transform their engagement with consumers and customers with its omni-channel interaction combining multi-lingual chatbots, referral management, customer portal and Robotic Process Automation to offer 24/7 personalized engagement.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Predictive Analytics">
+      <Expression Value="What is Predictive Analytics?" />
+      <Expression Value="What's Predictive Analytics?" />
+      <Expression Value="Predictive Analytics?" />
+      <Response>Predictive analytics is used in appraising and controlling risk in persistency, underwriting, pricing, rating, claims, marketing and reserving in Insurance sector. The ‘Customer First Connected Enterprise Digital Framework’ has recently launched its predictive analytics model for marketing and predicting when a person may lapse their policy. Additional predictive models will be rolled out for underwriting and claims.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Customer Service CSSP|Chatbot FITbot-en|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Engage existing customers">
+      <Expression Value="How does 121Advisor Engage existing customers?" />
+      <Expression Value="Engage existing customers?" />
+      <Expression Value="Engaging existing customers?" />
+      <Response>It is important to engage with customers in order to automate customer onboarding by providing useful tips and educating them on how to get the most out of products or services via personalized engagement. The ‘Customer First Connected Enterprise Digital Framework’ uses the customer service portal, to auto-assess personas and scoring to identify a customer’s needs, then using Robotic Process Automation (RPA), to send relevant tips and product offers to the customers, and notifying the agent when to follow up.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Customer Service CSSP|121Solutions</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Buyer guidance">
+      <Expression Value="What is Buyer guidance?" />
+      <Expression Value="What's Buyer guidance?" />
+      <Expression Value="Buyer guidance?" />
+      <Response>Lead buyers through their customer journeys helping them understand their financial needs and recommend products, to complete their purchase. The ‘Customer First Connected Enterprise Digital Framework’ using its multi-lingual Robo Advisor engages with the prospective buyer to help them understand their financial goals, understand how much they need and recommend products. The buyer can then either buy online or connect with an advisor near by.
+Would you like me to send you some information about Customer First Connected Enterprise? [Yes]
+<Hint>R@@ Referral Management ReMMA|Web Portals WebPOS-en|121Solutions</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

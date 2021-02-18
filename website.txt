@@ -1,0 +1,20 @@
+121Advisor: https://localhost:580/
+
+
+Kentico: https://localhost:580/Admin/CMSAdministration.aspx
+
+
+https://oscova.121advisor.com
+
+
+\\192.168.0.205\website\FITbot\Oscova\OscovaSIML
+
+
+https://www.w3schools.com/html/html_formatting.asp  
+
+
+
+
+Oscova: \\192.168.0.205\Project\121website\Source Code\Development\121website_K12\CMS\OscovaSIML
+
+

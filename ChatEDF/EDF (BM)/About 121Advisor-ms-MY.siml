@@ -1,0 +1,14 @@
+﻿<Siml>
+  <Dialog Name="About 121Advisor" IntentAlias="121Advisor">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="Mengenai 121Advisor?" />
+      <Expression Value="Mengenai 121 Advisor?" />
+      <Response>
+121Advisor adalah penyelesaian teknologi visionari dan syarikat perkhidmatan perundingan yang diasaskan oleh sekumpulan profesional inovatif dengan rekod kejayaan dalam melayani pelanggan di seluruh sektor Kewangan, Insurans dan Takaful di rantau Asia sejak 20 tahun yang lalu. Sejak penubuhannya pada tahun 2010, 121Advisor telah mempelopori pelbagai penyelesaian perniagaan revolusioner dalam teknologi digital, platform Internet dan mobile, saluran media sosial serta penyelesaian awan yang mematuhi peraturan untuk pelanggan multinasional dan domestik.
+<Hint>R@@ Hubungi Kami|Penyelesaian121|Perkhidmatan121|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

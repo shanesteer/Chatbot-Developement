@@ -1,0 +1,115 @@
+﻿<Siml>
+  <Dialog Name="Case studies" IntentAlias="cases">
+    
+    <Intent>
+      <Expression Value="Case studies" />
+      <Response>121Advisor has helped many companies overcome obstacles in the past. Here are 121Advisor's case studies.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Referral Management 1|Digital Insurance Strategy|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Digital Strategy|Full digital solution|Direct Online Insurance|Customer Portal 1|Customer Portal 2</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Claims Management Automation">
+      <Expression Value="Claims Management Automation" />
+      <Response>Life Insurance company wanted to automate their claims management. <br /><b> What 121Advisor delivered: </b> 
+121Advisor implemented a claims management system covering claims notification, registration, assessment, investigation, approval/decline and appeals with letter templates and routing. <br /><b> Results: </b> 
+Handles claims for death, TPD, hospitalization, critical illness, surrender.
+<Hint>R@@ Cross platform mobile Point of Sales|Referral Management 1|Digital Insurance Strategy|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Digital Strategy|Full digital solution|Direct Online Insurance|Customer Portal 1|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Cross platform mobile Point of Sales">
+      <Expression Value="Cross platform mobile Point of Sales" />
+      <Response>Life Insurance company wanted Cross platform mobile Point of Sales solution for Bancassurance and Agency able to issue Policies offline. <br /><b> What 121Advisor delivered: </b> 
+121Advisor delivered a mobile hybrid (iOS, Android and Windows) Point of Sales for Bancassurance and Agency, with contact/activity management, presentation, sales illustrations, auto-configure products with 5 questions, proposal, auto-underwriting and policy issue. <br /><b> Results: </b> 
+Bank staff completed sales offline including policy issues at bank branches. Proposal data submitted to back-end day end.
+<Hint>R@@ Claims Management Automation|Referral Management 1|Digital Insurance Strategy|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Digital Strategy|Full digital solution|Direct Online Insurance|Customer Portal 1|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Referral Management 1">
+      <Expression Value="Referral Management 1" />
+      <Response>Banks wanted to increase sales via Staff and Customer Referrals for Banking, Insurance and Takaful products. <br /><b> What 121Advisor delivered: </b>
+121Advisor implemented Referral Management System which allows staff (and soon customers) to refer leads, that are auto assigned to sales team, successful sales data synchronized from back-ends to compute referral KPI points and integrated with mobile POS. <br /><b> Results: </b> 
+Significant increase in referrals year on year, with very high closing ratio, due to effective reporting and management of referrals.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Digital Insurance Strategy|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Digital Strategy|Full digital solution|Direct Online Insurance|Customer Portal 1|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Digital Insurance Strategy">
+      <Expression Value="Digital Insurance Strategy" />
+      <Response>Life Insurance company was looking for a Digital Strategy to build a Company Wide Digital Transformation Plan. <br /><b> What 121Advisor delivered: </b>
+121Advisor reviewed the current state, created awareness of digital insurance, built Digital Insurance Strategy Plan, review and refined priorities, created business case and BOD presentation. <br /><b> Results: </b> 
+Digital Strategy implementation plan was accepted by the BOD and commenced implementation.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Referral Management 1|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Digital Strategy|Full digital solution|Direct Online Insurance|Customer Portal 1|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Agent marketing via Social Media">
+      <Expression Value="Agent marketing via Social Media" />
+      <Response>General Insurance Company wanted to enable Agents to engage with their prospects and customers via Social Media. <br /><b> What 121Advisor delivered: </b>
+121Advisor built a social media strategy for agents (approved globally), trained agents on use of Social Media, run campaigns, setup Social Media monitoring and response SOPs. Developed and managed agent content for posting to Social Media sites. <br /><b> Results: </b> 
+Provided outsource social media management services for the agent FB page. Creating content and ran campaigns.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Referral Management 1|Digital Insurance Strategy|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Digital Strategy|Full digital solution|Direct Online Insurance|Customer Portal 1|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Consulting of Sales Process">
+      <Expression Value="Consulting of Sales Process" />
+      <Response>Singapore Life Insurance company wanted Consultancy and Advisory for Regulatory Compliant Mobile Sales Process and Architecture. <br /><b> What 121Advisor delivered: </b>
+121Advisor prepared requirements, sales process, CFF compliance documents, test scenarios and test scripts for mobile point of sales for bancassurance involved in UAT and quality assurance reviews. <br /><b> Results: </b> 
+Successfully launched based on these processes.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Referral Management 1|Digital Insurance Strategy|Agent marketing via Social Media|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Digital Strategy|Full digital solution|Direct Online Insurance|Customer Portal 1|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Distribution Management for Corporate Agencies 1">
+      <Expression Value="Distribution Management for Corporate Agencies 1" />
+      <Response>Life Insurance company was looking for Corporate Agency solution to process performance, commission, bonus allocation, tax and payment to agents. <br /><b> What 121Advisor delivered: </b>
+121Advisor delivered a Corporate Agency Management SaaS model where the Admin manages agent movements and receives data from core back-end system, processes performance, commission, bonus and tax. It can be accessed online by corporate agency and agents. Runs on secure dedicated servers managed by 121Advisor. <br /><b> Results: </b> 
+Improved sales, easier management with reduced administration costs using SaaS model.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Referral Management 1|Digital Insurance Strategy|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 2|Digital Strategy|Full digital solution|Direct Online Insurance|Customer Portal 1|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Distribution Management for Corporate Agencies 2">
+      <Expression Value="Distribution Management for Corporate Agencies 2" />
+      <Response>Life Insurance and Unit Trust wanted a solution to manage Insurance and Unit Trust that process performance, commission, bonus allocation, tax and payment to agents. <br /><b> What 121Advisor delivered: </b>
+121Advisor delivered a Corporate Agency Management SaaS model where the Admin manages agent movements and receives data from core back-end system, processes performance, commission, bonus and tax. It can be accessed online by corporate agency and agents. Runs on secure dedicated servers managed by 121Advisor. <br /><b> Results: </b> 
+Improved sales, easier management with reduced administration costs using SaaS model.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Referral Management 1|Digital Insurance Strategy|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Digital Strategy|Full digital solution|Direct Online Insurance|Customer Portal 1|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Digital Strategy">
+      <Expression Value="Digital Strategy" />
+      <Response>Life Insurance company wanted to implement their Digital Strategy for website, mobile point of sales and customer portal. <br /><b> What 121Advisor delivered: </b>
+Using Customer First Connected Enterprise Digital framework, 121Advisor implemented the 1st Phase: Responsive, SEO Corporate Web Site, Hybrid Mobile Point of Sales , Customer Self Service Portal, Direct Online Insurance Purchase. <br /><b> Results: </b> 
+Website response was faster, added SEO optimization. Mobile POS (iOS, Android, Windows) sales illustration and e-proposal submission. Customer portal integrated with back-end admin, ePayment gateway and document management system.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Referral Management 1|Digital Insurance Strategy|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Full digital solution|Direct Online Insurance|Customer Portal 1|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Full digital solution">
+      <Expression Value="Full digital solution" />
+      <Response>Family Takaful Operator wanted a full outsourced digital takaful services, integrated with their back-end admin system. <br /><b> What 121Advisor delivered: </b>
+121Advisor delivered outsource implementation and hosting for: Responsive, SEO Corporate Web Site, Hybrid Mobile Point of Sales , Customer Self Service Portal, Direct Online Insurance Purchase. <br /><b> Results: </b> 
+Website implemented was according to global standards. Full integration with back-end administration system, ePayment gateway and document management system.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Referral Management 1|Digital Insurance Strategy|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Digital Strategy|Direct Online Insurance|Customer Portal 1|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Direct Online Insurance">
+      <Expression Value="Direct Online Insurance" />
+      <Response>Life Insurance company wanted to launch direct online insurance portal, with easy product configuration and content for marketing customer journeys and CTAs. <br /><b> What 121Advisor delivered: </b>
+121Advisor implemented a direct Online Insurance Purchase with easily configurable products (using EPC). Marketers can easily create articles and blogs via templates, tracking of consumer interactions, with live chat.  Outsourced on SaaS hosted services by 121Advisor. <br /><b> Results: </b> 
+Marketing teams can track consumer interactions and assess where drop-off occurred and revise customer journeys and CTAs. Options for A/B and multi-variate testing.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Referral Management 1|Digital Insurance Strategy|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Digital Strategy|Full digital solution|Customer Portal 1|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Customer Portal 1">
+      <Expression Value="Customer Portal 1" />
+      <Response>Life Insurance company wanted Customer Self-Service Portal to be delivered in short period of time. <br /><b> What 121Advisor delivered: </b>
+121Advisor implemented Customer Self-Service Portal with Integration to 2 Back-End Systems. <br /><b> Results: </b> 
+Went live in 4 months. Ongoing enhancement to add more self-service transactions integrated with back-ends.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Referral Management 1|Digital Insurance Strategy|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Digital Strategy|Full digital solution|Direct Online Insurance|Customer Portal 2|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Customer Portal 2">
+      <Expression Value="Customer Portal 2" />
+      <Response>Life Insurance company wanted Customer Portal to be delivered in short period of time. <br /><b> What 121Advisor delivered: </b>
+121Advisor implemented Customer Self-Service Portal with Integration to Back-End Systems. <br /><b> Results: </b> 
+Went live in 3 months. Ongoing enhancement to add more self-service transactions integrated with back-end.
+<Hint>R@@ Claims Management Automation|Cross platform mobile Point of Sales|Referral Management 1|Digital Insurance Strategy|Agent marketing via Social Media|Consulting of Sales Process|Distribution Management for Corporate Agencies 1|Distribution Management for Corporate Agencies 2|Digital Strategy|Full digital solution|Direct Online Insurance|Customer Portal 1|Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

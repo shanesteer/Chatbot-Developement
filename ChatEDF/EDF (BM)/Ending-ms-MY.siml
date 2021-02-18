@@ -1,0 +1,32 @@
+﻿<Siml>
+  <Dialog Name="GoodbyeBotDialog" IntentAlias="smalltalk-farewell">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="Terima kasih kerana membantu saya hari ini." />
+      <Expression Value="Terima kasih kerana membantu saya." />
+      <Expression Value="Terima kasih." />
+      <Response>Sama-sama. Adakah anda mendapati apa yang anda cari?
+<Hint>R@@ Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Ya saya telah menemuinya." />
+      <Expression Value="Ya saya telah menjumpainya." />
+      <Expression Value="Ya saya jumpa." />
+      <Expression Value="Saya jumpa." />
+      <Expression Value="Saya telah menemuinya. Terima kasih." />
+      <Expression Value="Saya telah menjumpainya. Terima kasih." />
+      <Response>Baiklah. Saya harap anda mempunyai hari yang baik!
+<Hint>R@@ Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Awak juga." />
+      <Expression Value="Anda juga." />
+      <Response>Terima kasih.
+<Hint>R@@ Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

@@ -1,0 +1,61 @@
+﻿<Siml>
+  <Dialog Name="HelloBotDialog" IntentAlias="smalltalk-greetings">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="Hello Bot" />
+      <Response>Hello customer!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="How are you today?" />
+      <Response>I'm fine thank you!</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="How's the weather today?" />
+      <Response>It is currently sunny outside.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Where are you from?" />
+      <Response>I'm from Malaysia. Where are you from?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I'm from England" />
+      <Response>That's a nice country.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I would like to buy a new handphone." />
+      <Response>You have come to the right place. What kind of model are you looking for?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I am looking for either a Samsung or an Iphone." />
+      <Response>Those are some good choices. We have a wide variety of phones to choose from.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Do you have th Iphone X in stock? " />
+      <Response>Yes we do. We also have the Iphone Xs in stock if you are interested</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="That's great. What about the Samsung Note 9?" />
+      <Response>Yes we have that too.</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Oh I see. Is there anyway you could help me decide which one to pick?" />
+      <Response>I sure can. are you planning to use the phone for work purposes?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Yes I am." />
+      <Response>Then i suggest you go for the Samsung Note 9</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

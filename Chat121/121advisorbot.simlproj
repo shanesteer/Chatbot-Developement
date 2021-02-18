@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SimlProject>
+  <Profile>Modern</Profile>
+  <Name>chat121</Name>
+  <Directory>121advisorbot</Directory>
+  <BotName>Benjamin</BotName>
+  <Personality>happy</Personality>
+  <Author>shane</Author>
+  <Description>advice on 121advisor solutions and services</Description>
+  <Date>19-07-01 12:05:55.995</Date>
+  <Notes></Notes>
+</SimlProject>

@@ -1,0 +1,32 @@
+﻿<Siml>
+  <Dialog Name="GoodbyeBotDialog" IntentAlias="smalltalk-farewell">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="Thank you for helping me today." />
+      <Expression Value="Thank you for assisting me today." />
+      <Expression Value="Thank you for the assistance." />
+      <Expression Value="Thank you for the help." />
+      <Expression Value="Thank you." />
+      <Expression Value="I appreciate the help." />
+      <Response>You're welcome. Have you found what you are looking for?
+<Hint>R@@ Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Yes I have." />
+      <Expression Value="I have thank you." />
+      <Expression Value="I have." />
+      <Response>Alright then. Have a great day!
+ <Hint>R@@ Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="You too." />
+      <Expression Value="Same to you." />
+      <Response>Thank you.
+ <Hint>R@@ Contact Us|121Solutions|121Services|About 121Advisor|Case Studies|Latest Posts</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

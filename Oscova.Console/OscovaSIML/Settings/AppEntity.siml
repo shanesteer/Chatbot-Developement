@@ -1,0 +1,6 @@
+﻿<Siml>
+  <Entity Type="app">
+  	<Entry>calc</Entry>
+  	<Entity>cmd</Entity>
+  </Entity>
+</Siml>

@@ -1,0 +1,14 @@
+﻿<Siml>
+  <!--Holds very common yet essential default user variable values.-->
+  <UserSettings>
+    
+    <!--"Name" is the default name for all users-->
+    <Variable Name="Name" Value="User" />
+    <Variable Name="Email" Value="" />
+    <Variable Name="Phone" Value="unknown" />
+    <Variable Name="UserIntent" Value="unknown" />
+    <Variable Name="Language" Value="ENGLISH" />
+    <Variable Name="Culture" Value="en-GB" />
+
+  </UserSettings>
+</Siml>

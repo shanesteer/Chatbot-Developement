@@ -1,0 +1,115 @@
+﻿<Siml>
+  <Dialog Name="Kajian Kes" IntentAlias="kes-kes">
+    
+    <Intent>
+      <Expression Value="Kajian Kes" />
+      <Response>121Advisor telah membantu banyak syarikat mengatasi halangan pada masa lalu. Berikut adalah kajian kes 121Advisor.
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Portal Pelanggan 2</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Automasi Pengurusan Tuntutan">
+      <Expression Value="Automasi Pengurusan Tuntutan" />
+      <Response>Syarikat Life Insurans mahu mengautomasikan pengurusan tuntutan mereka. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor melaksanakan sistem pengurusan tuntutan yang meliputi pemberitahuan tuntutan, pendaftaran, penilaian, siasatan, kelulusan / penurunan dan rayuan dengan templat surat dan penghalaan. <br /><b> Hasilnya: </b> 
+Mengendalikan tuntutan untuk kematian, TPD, hospital, penyakit kritikal, menyerah kalah.
+<Hint>R@@ Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Penyelesaian digital penuh|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Titik Jualan Mobile Platform Silang">
+      <Expression Value="Titik Jualan Mobile Platform Silang" />
+      <Response>Syarikat Life Insurans mahu platform silang Point of Sales supaya Bancassurance dan Agensi dapat mengeluarkan Polisi offline. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor menyampaikan titik jualan untuk Bancassurance dan Agensi mobile hibrid (iOS, Android dan Windows), dengan kenalan / pengurusan aktiviti, persembahan, ilustrasi jualan, produk auto konfigurasi dengan 5 soalan, cadangan, isu pengawasan auto dan polisi. <br /><b> Hasilnya: </b> 
+Kakitangan bank melengkapkan jualan offline termasuk isu dasar di cawangan bank. Data cadangan dihantar ke "back-end" pada hujung hari.
+<Hint>R@@ Automasi Pengurusan Tuntutan|Pengurusan Rujukan 1|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Penyelesaian digital penuh|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Pengurusan Rujukan 1">
+      <Expression Value="Pengurusan Rujukan 1" />
+      <Response>Bank-bank ingin meningkatkan jualan melalui Staf dan Rujukan Pelanggan untuk produk Perbankan, Insurans dan Takaful. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor melaksanakan Sistem Pengurusan Rujukan yang membolehkan kakitangan (dan pelanggan tidak lama lagi) untuk merujuk petunjuk, yang diberi kepada pasukan jualan secara automatik, data jualan yang berjaya disegerakkan dari "back-end" untuk mengira mata KPI rujukan dan disepadukan dengan mobile POS. <br /><b> Hasilnya: </b> 
+Peningkatan ketara dalam rujukan pada setiap tahun, dengan nisbah penutupan yang sangat tinggi, oleh sebab pelaporan dan pengurusan rujukan yang berkesan.
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Penyelesaian digital penuh|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Strategi Insurans Digital">
+      <Expression Value="Strategi Insurans Digital" />
+      <Response>Syarikat Life Insurans sedang mencari Strategi Digital untuk membina Pelan Transformasi Syarikat Wide Digital. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor mengkaji semula keadaan semasa, mewujudkan kesedaran mengenai insurans digital, membina Rancangan Strategi Insurans Digital, mengkaji dan menetapkan keutamaan, mencipta kes perniagaan dan pembentangan BOD. <br /><b> Hasilnya: </b> 
+Pelan pelaksanaan Strategi Digital telah diterima oleh BOD dan pelaksanaan dimulakan.
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Penyelesaian digital penuh|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Pemasaran Agen melalui Media Sosial">
+      <Expression Value="Pemasaran Agen melalui Media Sosial" />
+      <Response>Syarikat Insurans Am ingin membolehkan Ejen terlibat dengan prospek dan pelanggan melalui Media Sosial. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor membina strategi media sosial untuk ejen (diluluskan di seluruh dunia), ejen terlatih mengenai penggunaan Media Sosial, menjalankan kempen, mengawasi pemantauan Media Sosial dan respon SOP. Kandungan ejen yang dibangunkan dan diuruskan untuk dihantar ke laman Media Sosial. <br /><b> Hasilnya: </b> 
+Menyediakan perkhidmatan pengurusan media sosial penyumberan luar untuk halaman FB ejen. Mewujudkan kandungan dan menjalankan kempen.
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Strategi Insurans Digital|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Penyelesaian digital penuh|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Perundingan Proses Jualan">
+      <Expression Value="Perundingan Proses Jualan" />
+      <Response>Syarikat Life Insurans Singapura mahukan Perundingan dan Penasihat untuk Proses Jualan Berasaskan Pematuhan Peraturan dan Senibina. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor menyediakan keperluan, proses jualan, dokumen pematuhan CFF, senario ujian dan skrip ujian untuk titik jualan mobile untuk bancassurance yang terlibat dalam UAT dan ulasan jaminan kualiti. <br /><b> Hasilnya: </b> 
+Berjaya dilancarkan berdasarkan proses ini.
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Penyelesaian digital penuh|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Pengurusan Pengedaran untuk Agensi Syarikat 1">
+      <Expression Value="Pengurusan Pengedaran untuk Agensi Syarikat 1" />
+      <Response>Syarikat Life Insurans mencari penyelesaian Agensi Korporat untuk memproses prestasi, komisen, peruntukan bonus, cukai dan bayaran kepada ejen. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor menyampaikan model SaaS Pengurusan Agensi Korporat di mana Pentadbir menguruskan pergerakan ejen dan menerima data dari sistem "back-end", memproses prestasi, komisen, bonus dan cukai. Ia boleh diakses secara online oleh agensi dan agen korporat. Diteruskan pada server komputer berdedikasi yang selamat dan diuruskan oleh 121Advisor. <br /><b> Hasilnya: </b> 
+Peningkatan jualan, pengurusan yang lebih mudah dengan kos pentadbiran yang dikurangkan menggunakan model SaaS.
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Penyelesaian digital penuh|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Pengurusan Pengedaran untuk Agensi Syarikat 2">
+      <Expression Value="Pengurusan Pengedaran untuk Agensi Syarikat 2" />
+      <Response>Life Insurans dan Unit Amanah menginginkan penyelesaian untuk menguruskan Insurans dan Unit Amanah yang memproses prestasi, komisen, peruntukan bonus, cukai dan bayaran kepada ejen. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor menyampaikan model SaaS Pengurusan Agensi Korporat di mana Pentadbir menguruskan pergerakan ejen dan menerima data dari sistem "back-end", memproses prestasi, komisen, bonus dan cukai. Ia boleh diakses secara online oleh agensi dan agen korporat. Diteruskan pada server komputer berdedikasi yang selamat dan diuruskan oleh 121Advisor. <br /><b> Hasilnya: </b> 
+Peningkatan jualan, pengurusan yang lebih mudah dengan kos pentadbiran yang dikurangkan menggunakan model SaaS.
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Strategi Digital|Penyelesaian digital penuh|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Strategi Digital">
+      <Expression Value="Strategi Digital" />
+      <Response>Syarikat Life Insurans mahu melaksanakan Strategi Digital mereka untuk Laman sesawang, titik jualan dan portal pelanggan. <br /><b> Apa 121Advisor sampaikan: </b> 
+Menggunakan Rangka Kerja Enterprise Pertama Tehubung Pelanggan, 121Advisor melaksanakan Tahap Pertama: Responsif, Laman sesawang Korporat SEO, Titik Jualan Mudah Alih Hibrid, Portal Khidmat Pelanggan Pelanggan, Pembelian Insurans Langsung Dalam Talian. <br /><b> Hasilnya: </b> 
+Sambutan Laman sesawang adalah lebih cepat, pengoptimuman SEO ditambah. Ilustrasi jualan POS (iOS, Android, Windows) ilustrasi jualan dan penyerahan e-proposal. Portal pelanggan yang disepadukan dengan admin "back-end", gerbang e-Bayaran dan sistem pengurusan dokumen.
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Penyelesaian digital penuh|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Penyelesaian digital penuh">
+      <Expression Value="Penyelesaian digital penuh" />
+      <Response>Pengendali Takaful Keluarga mahu perkhidmatan takaful digital yang lengkap, disepadukan dengan sistem admin "back-end" mereka. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor menyampaikan pelaksanaan penyumberan luar dan hosting untuk: Responsif, Laman sesawang Korporat SEO, Titik Jualan Hibrid, Portal Khidmat Diri Pelanggan, Pembelian Insurans Langsung Dalam Talian. <br /><b> Hasilnya: </b> 
+Laman sesawang yang dilaksanakan adalah mengikut piawaian global. Integrasi penuh dengan sistem pentadbiran "back-end", gerbang e-Bayaran dan sistem pengurusan dokumen.
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Insurans Langsung Dalam Talian">
+      <Expression Value="Insurans Langsung Dalam Talian" />
+      <Response>Syarikat Life Insurans ingin melancarkan portal Insurans Langsung Dalam Talian, dengan konfigurasi produk dan kandungan mudah untuk perjalanan pelanggan pemasaran dan CTA. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor melaksanakan Pembelian Insurans Langsung Dalam Talian dengan produk mudah dikonfigurasi (menggunakan EPC). Pemasar mudah membina artikel dan blog melalui templat, menjejaki interaksi pengguna, dengan live chat. Penyumberan luar pada perkhidmatan hosted SaaS oleh 121Advisor. <br /><b> Hasilnya: </b> 
+Pasukan pemasaran dapat menjejaki interaksi pengguna dan menilai tempat drop-off berlaku dan menyemak semula perjalanan pelanggan dan CTA. Pilihan untuk ujian A/B dan pelbagai variasi.
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Penyelesaian digital penuh|Portal Pelanggan 1|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Portal Pelanggan 1">
+      <Expression Value="Portal Pelanggan 1" />
+      <Response>Syarikat Life Insurans mahu Portal Khidmat Diri Pelanggan untuk dihantar dalam masa yang singkat. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor melaksanakan Portal Khidmat Diri Pelanggan dengan Integrasi ke 2 Sistem "back-end". <br /><b> Hasilnya: </b> 
+Dilancarkan dalam masa 4 bulan. Peningkatan berterusan untuk menambah urus niaga layan diri yang disepadukan dengan "back-end".
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Penyelesaian digital penuh|Insurans Langsung Dalam Talian|Portal Pelanggan 2|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent Name="Portal Pelanggan 2">
+      <Expression Value="Portal Pelanggan 2" />
+      <Response>Syarikat Life Insurans mahu Portal Khidmat Diri Pelanggan untuk dihantar dalam masa yang singkat. <br /><b> Apa 121Advisor sampaikan: </b> 
+121Advisor melaksanakan Portal Khidmat Diri Pelanggan dengan Integrasi ke Sistem "back-end". <br /><b> Hasilnya: </b> 
+Dilancarkan dalam masa 3 bulan. Peningkatan berterusan untuk menambah urus niaga layan diri yang disepadukan dengan "back-end".
+<Hint>R@@ Automasi Pengurusan Tuntutan|Titik Jualan Mobile Platform Silang|Pengurusan Rujukan 1|Strategi Insurans Digital|Pemasaran Agen melalui Media Sosial|Perundingan Proses Jualan|Pengurusan Pengedaran untuk Agensi Syarikat 1|Pengurusan Pengedaran untuk Agensi Syarikat 2|Strategi Digital|Penyelesaian digital penuh|Insurans Langsung Dalam Talian|Portal Pelanggan 1|Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

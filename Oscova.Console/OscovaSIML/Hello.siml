@@ -1,0 +1,28 @@
+﻿<Siml>
+  <Dialog Name="HelloBotDialog" IntentAlias="smalltalk-greetings">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="Hello" />
+      <Expression Value="Hi" />
+      <Response>Hello Customer! How are you today?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="How are you?" />
+      <Expression Value="How r you?" />
+      <Expression Value="How are u?" />
+      <Expression Value="How r u?" />
+      <Response>I'm fine thank you. How may I help you today?</Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="I'm doing fine." />
+      <Expression Value="I'm doing good." />
+      <Expression Value="I'm doing alright." />
+      <Expression Value="I'm fine thank you." />
+      <Response>Splendid! How may I help you today?</Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

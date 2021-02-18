@@ -1,0 +1,53 @@
+﻿<Siml>
+  <Dialog Name="HelloBotDialog" IntentAlias="smalltalk-greetings">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="Halo bot" />
+      <Expression Value="Hi" />
+      <Expression Value="Hai" />
+      <Response>Selamat sejahtera Pelanggan! Bagaimanakah anda hari ini? Adakah anda ingin mengetahui lebih lanjut tentang penyelesaian dan perkhidmatan 121Advisor?
+<Hint>R@@ Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Saya baik." />
+      <Expression Value="Saya ok." />
+      <Expression Value="Saya baik-baik sahaja." />
+      <Expression Value="Saya berbuat baik." />
+      <Expression Value="Saya baik terima kasih." />
+      <Expression Value="Saya ok terima kasih." />
+      <Expression Value="Saya berbuat baik terima kasih." />
+      <Expression Value="Saya baik-baik sahaja terima kasih." />
+      <Response>Baik! Bagaimanakah saya boleh membantu anda hari ini?
+<Hint>R@@ Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Saya baik. Ya saya ingin mengetahui lebih lanjut tentang penyelesaian dan perkhidmatan 121Advisor." />
+      <Expression Value="Saya ok. Ya saya ingin mengetahui lebih lanjut tentang penyelesaian dan perkhidmatan 121Advisor." />
+      <Expression Value="Saya baik-baik sahaja. Ya saya ingin mengetahui lebih lanjut tentang penyelesaian dan perkhidmatan 121Advisor." />
+      <Expression Value="Saya berbuat baik. Ya saya ingin mengetahui lebih lanjut tentang penyelesaian dan perkhidmatan 121Advisor." />
+      <Expression Value="Saya baik terima kasih. Ya saya ingin mengetahui lebih lanjut tentang penyelesaian dan perkhidmatan 121Advisor." />
+      <Expression Value="Saya ok terima kasih. Ya saya ingin mengetahui lebih lanjut tentang penyelesaian dan perkhidmatan 121Advisor." />
+      <Expression Value="Saya berbuat baik terima kasih. Ya saya ingin mengetahui lebih lanjut tentang penyelesaian dan perkhidmatan 121Advisor." />
+      <Expression Value="Saya baik-baik sahaja terima kasih. Ya saya ingin mengetahui lebih lanjut tentang penyelesaian dan perkhidmatan 121Advisor." />
+      <Expression Value="Ya. Saya ingin mengetahui lebih lanjut tentang penyelesaian dan perkhidmatan 121Advisor." />
+      <Expression Value="Ya, saya nak tahu." />
+      <Expression Value="Ya, saya ingin tahu." />
+      <Expression Value="Ya." />
+      <Response>Baik! Sila klik Penyelesaian121 atau Perkhidmatan121 di bawah ataupun klik simbol '+' untuk mengetahui lebih lanjut tentang 121Advisor.
+<Hint>R@@ Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+    <Intent>
+      <Expression Value="Saya baik. Bagaimanakah anda hari ini?" />
+      <Expression Value="Saya baik-baik sahaja. Bagaimanakah anda hari ini?" />
+      <Expression Value="Saya baik sahaja. Bagaimanakah anda hari ini?" />
+      <Expression Value="Saya berbuat baik. Bagaimanakah anda hari ini?" />
+      <Response>Saya baik-baik sahaja. Terima kasih! Bagaimanakah saya boleh membantu anda hari ini?
+<Hint>R@@ Hubungi Kami|Penyelesaian121|Perkhidmatan121|Mengenai 121Advisor|Kajian kes|Catatan Terkini</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

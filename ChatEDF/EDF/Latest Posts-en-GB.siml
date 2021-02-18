@@ -1,0 +1,14 @@
+﻿<Siml>
+  <Dialog Name="BLOGCAROUSEL" IntentAlias="CAROUSEL">
+    
+    <Intent>
+      <Expression Value="Latest Posts" />
+      <Response>
+        <MacroResolver>
+				{% Documents["/Blogs"].AllChildren.Where("ClassName like 'CMS.BlogPost'").WithAllData.ApplyTransformation("Advisor121.FitBot.BlogCarousel", "Advisor121.FitBot.CarouselHeader", "Advisor121.FitBot.CarouselFooter") %}
+			</MacroResolver>
+<Hint>R@@ Contact Us|121Solutions|121Services|About 121Advisor</Hint></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

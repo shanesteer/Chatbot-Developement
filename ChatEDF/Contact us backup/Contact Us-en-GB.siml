@@ -1,0 +1,13 @@
+﻿<Siml>
+  <Dialog Name="Contact Us" IntentAlias="Contact details">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="Contact Us" />
+      <Response>
+          Please enter your contact details
+          <Form Type="PopUp" Source="~/ChatBotForms/GetMyDetails.aspx"></Form></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>

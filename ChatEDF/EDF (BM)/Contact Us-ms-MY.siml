@@ -1,0 +1,13 @@
+﻿<Siml>
+  <Dialog Name="Hubungi Kami" IntentAlias="butiran perhubungan">
+    <!--This intent does not need a name as an `IntentAlias` value has been specified-->
+    
+    <Intent>
+      <Expression Value="Hubungi Kami" />
+      <Response>
+          Sila masukkan butiran hubungan anda
+          <Form Type="PopUp" Source="~/ChatBotForms/contactus.aspx"></Form></Response>
+    </Intent>
+    
+  </Dialog>
+</Siml>
